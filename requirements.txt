@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+nltk
+scikit-learn
+tweepy
+pillow
+wordcloud
+scipy
+xlrd
+xlwt

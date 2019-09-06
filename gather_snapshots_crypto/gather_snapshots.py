@@ -13,26 +13,8 @@ from bs4 import BeautifulSoup
 import re
 import time
 
-
-# We first need to gather all the urls
-url_where_urls_are = "https://coinmarketcap.com/historical/"
-snapshot_url_html_page = requests.get(url_where_urls_are).text
-soup = BeautifulSoup(snapshot_url_html_page, 'html.parser')
-all_urls = soup.find_all('a')
-snapshot_url_list = []
-
-for url in all_urls:
-    if len(url.text) == 3:
-        if re.search("\/historical\/[0-9]{8}",url.attrs['href']):
-            snapshot_url_list.append(f"https://coinmarketcap.com{url.attrs['href']}")
-
-print(snapshot_url_list)
-
-# Create a list of dataframe containing the cryptos.
-list_of_cryptocurrencies = []
-
-# df = pd.read_html("https://coinmarketcap.com/historical/20190901/")
-# print(url_list)
+# We read the csv file
+df = pd.read_csv("./snapshots/list.csv")
 
 def non_stop_gather(snapshot_url_list):
     """Provided the list of urls, the method gathers the snapshot data of coinmarket cap
@@ -45,17 +27,21 @@ def non_stop_gather(snapshot_url_list):
 
     idx = 0
     filename_list = []
+    total_cap_list = []
 
     # We go through all urls, extract the timestamp and gather their respective data from coinmarketcap.com
     # We use a while here in order to keep track of the index when a request is not performed correctly.
     # When the request fails, we wait and try again after 30 seconds.
     while idx < len(snapshot_url_list):
         try :
+
             # Log message
             print(f"Currently fetching : {snapshot_url_list[idx]} \tindex : {idx}/{len(snapshot_url_list)}")
 
+
             # We try to fetch the data from coin market cap
             df = pd.read_html(snapshot_url_list[idx])
+
             # We only are concerned by the first table
             df = df[0] 
 
@@ -66,7 +52,7 @@ def non_stop_gather(snapshot_url_list):
             timestamp = re.search('[0-9]{8}',snapshot_url_list[idx])[0]
 
             # Log messages
-            print(f"snapshot_url_list[idx] : {snapshot_url_list[idx]}")
+            print(f"snapshot url : {snapshot_url_list[idx]}")
             print(f"timestamp : {timestamp}")
             
             # We define the filename based on timestamp
@@ -74,12 +60,10 @@ def non_stop_gather(snapshot_url_list):
 
             # Log message
             print(f"Saving...\t{filename}")
-
-            # We save the filename to the list
-            filename_list.append(filename)
-
+            
             # We save the file to the folder
             df.to_csv(filename)
+            
             idx += 1
         except:
             # In case of there is a problem fetching the data
@@ -93,4 +77,4 @@ def non_stop_gather(snapshot_url_list):
 
     return filename_list
 
-print(non_stop_gather(snapshot_url_list))
+non_stop_gather(df['snapshots_url'])

@@ -11,7 +11,4 @@ https://coinmarketcap.com/fr/currencies/eidoo/
 # Circle invest
 https://www.circle.com/ch/ 
 
-## Alternative investment
 
-1. Nexo.io
-2.  
