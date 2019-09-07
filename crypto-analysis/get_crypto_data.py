@@ -12,7 +12,7 @@ import time
 from datetime import datetime
 
 # We get the list of cryptocurrencies
-df_crypto = pd.read_csv("crypto.csv")
+df_crypto = pd.read_csv("./data/crypto.csv")
 
 # List to build the metadata
 ohlc_data_list = []
@@ -43,7 +43,7 @@ for idx, crypto in df_crypto.iterrows():
         filename = f"{crypto['symbol']}-{start}-to-{end}.csv"
         crypto_filenames_list.append(filename)
 
-        df.to_csv(f"./crypto-ohlc/{filename}")
+        df.to_csv(f"./data/crypto-ohlc/{filename}")
         print(f"Saved under {filename}")
         print("="*50)
     except:
@@ -55,4 +55,4 @@ df_crypto['start_date'] = start_list
 df_crypto['end_date'] = end_list
 
 # we save the relevant metadata by specifying the columns in order to avoid a double index.
-df_crypto[['symbol','name','url','identifier','filename','start_date','end_date']].to_csv("crypto.csv")
+df_crypto[['symbol','name','url','identifier','filename','start_date','end_date']].to_csv("./data/crypto.csv")

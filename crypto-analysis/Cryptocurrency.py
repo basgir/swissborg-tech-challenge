@@ -1,6 +1,6 @@
 ####################################
 #  Author : Bastien Girardet
-#  Goal : Fetch the data, assign it to an object and perform time-series analysis, ratio calculation.
+#  Goal : Fetch the data, assign it to an object and perform time-series analysis, ratios calculation.
 #  Creation Date : 15-07-2019
 #  Updated : 05-09-2019
 #  License : MIT
@@ -262,29 +262,32 @@ class Cryptocurrency():
         def compute_up_move(C_t, C_t_1):
  
             delta_C_t = C_t - C_t_1
-            
+            r_t = (C_t - C_t_1) / C_t_1 * 100
+
             if delta_C_t > 0:
-                return(np.around(delta_C_t,3))
+                return(np.around(r_t,3))
             else:
                 return(0)
             
         def compute_down_move(C_t, C_t_1):
  
             delta_C_t =  C_t - C_t_1
-            
+            r_t = (C_t - C_t_1) / C_t_1 * 100
+
             if delta_C_t < 0:
-                return(np.around(np.abs(delta_C_t),3))
+                return(np.around(np.abs(r_t),3))
             else:
                 return(0)
         
         for idx, row in self.data.iterrows():
             
             if row['idx'] == len(self.data['close'])-1:
-                C_t = self.data['close'].iloc[row['idx']]
+                C_t_1 = self.data['close'].iloc[row['idx']]
             else:
-                C_t = self.data['close'].iloc[row['idx']+1]
-                
-            C_t_1 = self.data['close'].iloc[row['idx']]
+                C_t_1 = self.data['close'].iloc[row['idx']+1]
+
+            
+            C_t = self.data['close'].iloc[row['idx']]
             
             actual_diff = C_t - C_t_1
             
@@ -296,7 +299,7 @@ class Cryptocurrency():
         self.data['down'] = down_moves
 
     
-    def relative_strength_index(self, n_days, method="SMA"):
+    def relative_strength_index(self, n_days=14, method="SMA"):
         """Compute the relative strength index (RSI) on a period of n_days
         
         
@@ -319,8 +322,15 @@ class Cryptocurrency():
         for idx, row in self.data.iterrows():
             if method == "SMA":
                 # average of all ups and downs during the defined period which is index to index + n_days (n_days past days)
-                avg_up = self.data['up'].iloc[row['idx']:row['idx'] + n_days].mean()
-                avg_down = self.data['down'].iloc[row['idx']:row['idx'] + n_days].mean()              
+                num_up = len(self.data['up'].iloc[row['idx']:row['idx'] + n_days][self.data['up'].iloc[row['idx']:row['idx'] + n_days] != 0])
+                num_down = len(self.data['down'].iloc[row['idx']:row['idx'] + n_days][self.data['down'].iloc[row['idx']:row['idx'] + n_days] != 0])
+                # print(f"num_up : {num_up}\t num_down : {num_down}")
+
+                avg_up = np.sum(self.data['up'].iloc[row['idx']:row['idx'] + n_days][self.data['up'].iloc[row['idx']:row['idx'] + n_days] != 0])/n_days
+                avg_down = np.sum(self.data['down'].iloc[row['idx']:row['idx'] + n_days][self.data['down'].iloc[row['idx']:row['idx'] + n_days] != 0])/n_days   
+
+                # print(f"avg_up : {avg_up}\t avg_down : {avg_up}")
+
                 RS = avg_up / avg_down
                 RSI = 100-(100/(1+RS))
                 RSI_list.append(RSI)
@@ -485,7 +495,6 @@ class Cryptocurrency():
             else: 
                 means.append(np.nan)
           
-        
         self.data['SMA_{0}_days'.format(n_days)] = means
         self.data['DSMA_{0}_days_{1}_days_shift'.format(n_days, shift)] = self.data['SMA_{0}_days'.format(n_days)].shift(shift)
         
