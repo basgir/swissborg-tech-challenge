@@ -2,7 +2,7 @@
 #  Author : Bastien Girardet
 #  Email : bastien.girardet@gmail.com
 #  Website : bastien.girardet.me
-#  Goal : Gather tweets from a list of crypto
+#  Goal : Clean the tweets
 #  Date : 08-09-2019
 ####################################
 

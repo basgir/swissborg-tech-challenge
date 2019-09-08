@@ -2,9 +2,8 @@
 #  Author : Bastien Girardet
 #  Email : bastien.girardet@gmail.com
 #  Website : bastien.girardet.me
-#  Goal : Gather all snapshots from coin market cap
-#         in order to create a graph on the evolution of crpypto.
-#  Date : 03-09-2019
+#  Goal : Get all the snapshots data from coin market cap. save it as csv etc...
+#  Date : 08-09-2019
 ####################################
 
 # We import the required libraries

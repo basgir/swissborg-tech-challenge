@@ -2,7 +2,7 @@
 #  Author : Bastien Girardet
 #  Email : bastien.girardet@gmail.com
 #  Website : bastien.girardet.me
-#  Goal : Filter tweets and classify them into ham and spam.
+#  Goal : Get the sentiment polarity from the ham tweets
 #  Date : 08-09-2019
 ####################################
 

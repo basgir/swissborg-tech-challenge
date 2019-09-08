@@ -4,7 +4,7 @@
 #  Website : bastien.girardet.me
 #  Goal : Fetch all the urls and snapshots into a csv file
 #         in order to create a graph on the evolution of crpypto.
-#  Date : 05-09-2019
+#  Date : 08-09-2019
 ####################################
 
 # We import the required libraries

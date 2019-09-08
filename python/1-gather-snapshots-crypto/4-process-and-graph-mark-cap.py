@@ -2,8 +2,8 @@
 #  Author : Bastien Girardet
 #  Email : bastien.girardet@gmail.com
 #  Website : bastien.girardet.me
-#  Goal : Market cap analysis by snapshots
-#  Date : 03-09-2019
+#  Goal : Process and graph mark cap
+#  Date : 08-09-2019
 ####################################
 
 import pandas as pd
