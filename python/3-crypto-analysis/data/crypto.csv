@@ -1,0 +1,9 @@
+,symbol,name,url,identifier,filename,start_date,end_date
+0,CHSB,Swissborg,https://coinmarketcap.com/currencies/swissborg/historical-data/?start=20190101&end=20190906,swissborg,CHSB-20190101-to-20190906.csv,2019-01-01,2019-09-06
+1,MCO,Crypto,https://coinmarketcap.com/currencies/crypto-com/historical-data/?start=20190101&end=20190906,crypto-com,MCO-20190101-to-20190906.csv,2019-01-01,2019-09-06
+2,EDO,Eidoo,https://coinmarketcap.com/currencies/eidoo/historical-data/?start=20190101&end=20190906,eidoo,EDO-20190101-to-20190906.csv,2019-01-01,2019-09-06
+3,CRPT,Crypterium,https://coinmarketcap.com/currencies/crpt/historical-data/?start=20190101&end=20190906,crpt,CRPT-20190101-to-20190906.csv,2019-01-01,2019-09-06
+4,NEXO,Nexo,https://coinmarketcap.com/currencies/nexo/historical-data/?start=20190101&end=20190906,nexo,NEXO-20190101-to-20190906.csv,2019-01-01,2019-09-06
+5,SXP,Swipe,https://coinmarketcap.com/currencies/swipe/historical-data/?start=20190101&end=20190906,swipe,SXP-20190101-to-20190906.csv,2019-01-01,2019-09-06
+6,DROP,Dropil,https://coinmarketcap.com/currencies/dropil/historical-data/?start=20190101&end=20190906,dropil,DROP-20190101-to-20190906.csv,2019-01-01,2019-09-06
+7,ETH,Etherium,https://coinmarketcap.com/currencies/ethereum/historical-data/?start=20190101&end=20190907,ETH-20190101-to-20190906.csv,ETH-20190101-to-20190907.csv,2019-01-01,2019-09-07

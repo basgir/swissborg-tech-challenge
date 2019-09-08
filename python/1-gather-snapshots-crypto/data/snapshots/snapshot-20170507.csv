@@ -1,0 +1,783 @@
+,#,Name,Symbol,Market Cap,Price,Circulating Supply,Volume (24h),% 1h,% 24h,% 7d,Unnamed: 10
+0,1,BTC Bitcoin,BTC,"$26,053,095,263",$1596.71,16316725,"$1,080,032,384",0.82%,1.08%,18.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+1,2,ETH Ethereum,ETH,"$8,592,855,815",$94.01,91406245,"$183,295,472",2.26%,-3.18%,18.90%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+2,3,XRP XRP,XRP,"$5,380,678,177",$0.141763,"37,955,579,225 *","$249,029,072",8.68%,40.02%,169.36%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+3,4,LTC Litecoin,LTC,"$1,544,711,755",$30.29,50995607,"$187,718,208",1.29%,6.55%,92.90%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+4,5,XEM NEM,XEM,"$893,949,821",$0.099328,"8,999,999,999 *","$21,352,206",6.72%,34.73%,90.66%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+5,6,DASH Dash,DASH,"$774,009,625",$106.28,7282607,"$30,297,238",1.63%,6.75%,15.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+6,7,ETC Ethereum Classic,ETC,"$651,119,403",$7.12,91407465,"$36,206,312",0.20%,-1.44%,9.73%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+7,8,XMR Monero,XMR,"$472,832,767",$32.78,14423216,"$31,328,626",1.46%,13.08%,38.81%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+8,9,XLM Stellar,XLM,"$409,807,375",$0.043984,"9,317,265,511 *","$280,844,768",-5.09%,109.60%,778.33%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+9,10,GNT Golem,GNT,"$197,684,562",$0.241079,"820,000,000 *","$7,621,816",0.85%,-5.22%,6.99%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+10,11,REP Augur,REP,"$189,706,024",$17.25,"11,000,000 *","$3,649,988",-2.37%,-2.53%,1.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+11,12,MAID MaidSafeCoin,MAID,"$146,606,455",$0.323955,"452,552,412 *","$11,015,459",9.16%,11.05%,23.90%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+12,13,DOGE Dogecoin,DOGE,"$142,548,797",$0.001305,109272523914,"$34,856,448",0.42%,15.62%,73.97%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+13,14,ZEC Zcash,ZEC,"$130,037,434",$103.83,1252444,"$9,456,316",-0.55%,-3.76%,9.02%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+14,15,STEEM Steem,STEEM,"$123,885,800",$0.527510,"234,850,177 *","$9,016,202",-4.02%,28.05%,87.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+15,16,GNO Gnosis,GNO,"$116,095,879",$105.10,"1,104,590 *","$3,392,568",-1.46%,-8.05%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+16,17,STRAT Stratis,STRAT,"$115,872,760",$1.18,"98,375,682 *","$2,653,792",1.64%,-1.99%,60.10%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+17,18,BCN Bytecoin,BCN,"$110,635,845",$0.000605,182857516408,"$9,611,360",13.25%,108.69%,196.26%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+18,19,BTS BitShares,BTS,"$90,474,364",$0.034804,"2,599,560,000 *","$16,653,725",6.62%,8.52%,110.07%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+19,20,FCT Factom,FCT,"$86,222,892",$9.85,"8,753,219 *","$9,072,876",0.05%,-1.10%,21.83%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+20,21,DCR Decred,DCR,"$82,539,018",$17.05,4840850,"$2,927,268",-1.61%,0.29%,9.88%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+21,22,WAVES Waves,WAVES,"$78,931,677",$0.789317,"100,000,000 *","$689,834",-3.52%,0.84%,29.66%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+22,23,PIVX  PIVX,PIVX,"$77,683,611",$1.46,"53,285,343 *","$1,441,406",-0.08%,-7.03%,-15.06%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+23,24,DGD DigixDAO,DGD,"$72,120,186",$36.06,"2,000,000 *","$298,441",-0.31%,0.66%,23.20%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+24,25,SNGLS  SingularDTV,SNGLS,"$69,808,795",$0.116348,"600,000,000 *","$84,716",0.96%,-10.13%,4.59%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+25,26,LSK Lisk,LSK,"$66,330,737",$0.621777,"106,679,345 *","$2,951,520",0.86%,-5.24%,3.37%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+26,27,GAME  GameCredits,GAME,"$66,053,833",$1.06,62137150,"$1,518,559",1.75%,4.50%,19.97%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+27,28,ARDR  Ardor,ARDR,"$64,784,160",$0.064849,"998,999,495 *","$984,432",-0.34%,-4.33%,25.07%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+28,29,SC Siacoin,SC,"$64,772,145",$0.002518,25728495350,"$6,525,368",5.84%,-1.18%,105.19%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+29,30,USDT Tether,USDT,"$60,468,121",$0.968990,"62,403,252 *","$72,995,504",-0.02%,0.04%,3.46%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+30,31,PPC Peercoin,PPC,"$59,571,788",$2.47,24075640,"$7,295,687",-2.38%,18.60%,98.71%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+31,32,BCC BitConnect,BCC,"$50,371,929",$7.95,6338166,"$266,678",1.30%,-3.49%,-10.36%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+32,33,RLC iExec RLC,RLC,"$49,989,523",$0.640310,"78,070,793 *","$451,835",1.67%,-2.83%,0.74%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+33,34,ROUND  Round,ROUND,"$44,453,460",$0.052298,"850,000,000 *","$120,407",0.33%,-19.24%,-9.02%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+34,35,ICN  Iconomi,ICN,"$43,857,345",$0.504107,"87,000,000 *","$593,180",0.70%,-0.62%,-1.62%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+35,36,NXT Nxt,NXT,"$43,593,697",$0.043637,"998,999,983 *","$5,896,066",4.94%,16.61%,38.71%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+36,37,GBYTE Obyte,GBYTE,"$41,516,806",$259.03,"160,276 *","$101,522",3.27%,4.25%,19.67%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+37,38,NMC Namecoin,NMC,"$37,124,840",$2.52,14736400,"$4,981,515",-3.75%,20.78%,112.42%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+38,39,1ST FirstBlood,1ST,"$36,150,040",$0.422519,"85,558,371 *","$1,237,898",-4.83%,-8.05%,11.74%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+39,40,SYS Syscoin,SYS,"$35,773,434",$0.068192,524596306,"$3,360,372",3.70%,2.81%,17.99%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+40,41,KMD Komodo,KMD,"$30,295,933",$0.300170,100929379,"$140,867",2.01%,2.93%,54.76%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+41,42,SJCX Storjcoin X,SJCX,"$29,340,934",$0.573366,"51,173,144 *","$850,710",-1.40%,0.71%,36.56%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+42,43,EMC Emercoin,EMC,"$28,813,573",$0.720539,39988890,"$1,145,480",-0.76%,-0.80%,7.16%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+43,44,NEO NEO,NEO,"$26,789,618",$0.535792,"50,000,000 *","$1,249,065",0.45%,-7.71%,54.31%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+44,45,MLN Melon,MLN,"$24,486,838",$40.85,"599,400 *","$272,717",-2.01%,1.47%,7.10%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+45,46,NXS Nexus,NXS,"$24,174,791",$0.491528,49182896,"$43,670",1.50%,5.75%,44.59%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+46,47,ARK Ark,ARK,"$23,003,005",$0.242743,"94,762,976 *","$261,827",1.25%,-4.70%,27.41%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+47,48,WINGS Wings,WINGS,"$20,427,611",$0.227711,"89,708,333 *","$699,517",1.49%,-18.44%,100.73%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+48,49,LKK Lykke,LKK,"$20,022,534",$0.147471,"135,772,952 *","$48,189",0.21%,0.79%,10.88%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+49,50,BTCD BitcoinDark,BTCD,"$18,875,309",$14.64,1288862,"$198,074",-1.34%,17.10%,65.92%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+50,51,XAUR Xaurum,XAUR,"$17,969,663",$0.172786,"103,999,469 *","$71,050",0.74%,-0.90%,11.09%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+51,52,TRST WeTrust,TRST,"$17,564,829",$0.190616,"92,147,500 *","$586,479",-0.29%,-6.26%,-4.02%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+52,53,YBC YbCoin,YBC,"$17,056,341",$5.65,"3,019,060 *","$299,349",0.59%,-6.15%,-0.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+53,54,XCP Counterparty,XCP,"$16,743,444",$6.39,"2,619,163 *","$1,058,694",-0.24%,-10.40%,39.61%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+54,55,SKY Skycoin,SKY,"$16,402,718",$3.03,"5,415,299 *","$30,722",47.10%,110.86%,210.38%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+55,56,NAV NavCoin,NAV,"$15,677,352",$0.257043,"60,991,107 *","$905,263",-0.05%,-7.43%,2.32%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+56,57,BCY BitCrystals,BCY,"$14,843,327",$0.359457,"41,293,785 *","$524,945",-1.29%,-7.75%,13.01%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+57,58,BLK BlackCoin,BLK,"$14,155,775",$0.185968,"76,119,452 *","$1,310,284",-1.64%,3.22%,19.89%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+58,59,DGB DigiByte,DGB,"$14,095,067",$0.001739,8107031908,"$3,685,412",5.86%,-9.00%,58.64%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+59,60,XZC Zcoin,XZC,"$13,567,871",$6.62,2049369,"$1,091,021",-3.71%,-2.77%,-11.81%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+60,61,NLG Gulden,NLG,"$13,515,843",$0.039167,345079045,"$139,569",-4.64%,-9.10%,4.16%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+61,62,GUP Matchpool,GUP,"$13,232,666",$0.176436,"75,000,000 *","$242,997",-0.44%,-3.40%,-10.04%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+62,63,SWT Swarm City,SWT,"$12,879,963",$2.05,"6,273,462 *","$66,080",7.53%,10.65%,51.90%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+63,64,AGRS Agoras Tokens,AGRS,"$12,803,443",$0.304844,"42,000,000 *","$4,041",0.73%,-6.38%,-3.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+64,65,POT PotCoin,POT,"$12,725,255",$0.058718,216719521,"$1,149,028",1.22%,-0.70%,34.84%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+65,66,TIME Chronobank,TIME,"$12,381,435",$17.44,"710,113 *","$503,102",-5.49%,19.21%,62.78%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+66,67,AMP HyperSpace,AMP,"$12,097,535",$0.147071,"82,256,324 *","$1,203,009",-2.58%,9.88%,25.54%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+67,68,UBQ Ubiq,UBQ,"$11,558,449",$0.313275,36895492,"$135,584",-0.51%,1.14%,25.16%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+68,69,ZCL ZClassic,ZCL,"$11,211,603",$8.63,1298438,"$356,788",-1.07%,-8.50%,69.76%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+69,70,VTC Vertcoin,VTC,"$10,916,544",$0.326719,33412678,"$4,469,261",13.74%,14.78%,140.27%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+70,71,CRB Creditbit,CRB,"$10,737,326",$0.850634,"12,622,728 *","$381,335",-1.35%,-4.00%,-21.83%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+71,72,CLAM Clams,CLAM,"$10,423,853",$4.62,"2,256,686 *","$7,139,419",2.28%,20.98%,116.62%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+72,73,BAY BitBay,BAY,"$10,368,226",$0.010291,"1,007,474,092 *","$55,900",-0.85%,-1.43%,1.99%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+73,74,B@ Bankcoin,B@,"$10,023,830",$2.35,"4,265,080 *","$1,247",0.65%,6.83%,76.63%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+74,75,NVC Novacoin,NVC,"$9,312,214",$5.43,1713780,"$849,552",-0.86%,4.34%,36.26%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+75,76,EDG Edgeless,EDG,"$9,110,007",$0.120545,"75,573,453 *","$188,920",2.10%,-0.61%,5.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+76,77,EAC EarthCoin,EAC,"$9,062,050",$0.000970,9346468332,"$5,828,750",10.37%,66.63%,236.34%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+77,78,CRW Crown,CRW,"$9,018,740",$0.665869,13544310,"$48,531",0.59%,-10.34%,-33.99%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+78,79,RBY Rubycoin,RBY,"$8,791,031",$0.361730,"24,302,726 *","$47,042",0.94%,-23.40%,-7.21%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+79,80,IOC I/O Coin,IOC,"$8,375,980",$0.512900,"16,330,622 *","$10,219",-10.05%,-8.47%,20.89%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+80,81,NXC Nexium,NXC,"$8,223,594",$0.123623,"66,521,586 *","$303,450",-1.95%,-3.33%,4.56%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+81,82,VSL vSlice,VSL,"$7,791,765",$0.233353,"33,390,496 *","$115,497",2.79%,5.89%,13.47%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+82,83,EXP Expanse,EXP,"$7,692,426",$1.09,7033609,"$197,749",-1.55%,-2.53%,3.51%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+83,84,GCR Global Curren...,GCR,"$7,602,328",$0.074152,"102,523,980 *","$35,639",-2.11%,-13.11%,88.95%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+84,85,ION ION,ION,"$7,476,434",$0.567993,"13,162,894 *","$6,907",1.55%,7.98%,23.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+85,86,GRC GridCoin,GRC,"$6,985,600",$0.017915,389929994,"$162,717",-2.60%,0.08%,29.39%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+86,87,VASH VPNCoin,VASH,"$6,843,216",$0.017094,"400,339,746 *","$2,054,433",0.43%,-6.17%,37.31%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+87,88,LBC LBRY Credits,LBC,"$6,601,080",$0.099827,66125104,"$760,343",-2.81%,0.23%,18.04%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+88,89,LUN Lunyr,LUN,"$6,565,582",$2.86,"2,297,853 *","$265,051",-2.32%,-10.96%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+89,90,MUE MonetaryUnit,MUE,"$6,562,831",$0.054951,119430280,"$82,041",-1.93%,8.56%,11.12%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+90,91,XAS Asch,XAS,"$6,518,716",$0.086916,"75,000,000 *","$94,664",2.65%,2.65%,161.35%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+91,92,RADS Radium,RADS,"$6,299,397",$1.96,"3,220,136 *","$187,938",-3.30%,-0.28%,27.88%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+92,93,BLOCK Blocknet,BLOCK,"$6,261,194",$1.60,"3,910,516 *","$62,435",0.36%,0.49%,-18.64%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+93,94,BURST Burst,BURST,"$6,245,786",$0.003541,1763848882,"$468,574",-0.19%,-5.16%,31.73%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+94,95,XPM Primecoin,XPM,"$6,163,137",$0.324000,19022019,"$622,124",-0.38%,-5.09%,8.77%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+95,96,MONA MonaCoin,MONA,"$6,147,237",$0.124502,49374450,"$11,724",0.89%,-1.37%,-1.97%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+96,97,WCT Waves Communi...,WCT,"$6,145,509",$1.23,"5,000,000 *","$3,928",-6.70%,18.10%,81.57%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+97,98,OMNI Omni,OMNI,"$5,939,686",$10.63,"558,776 *","$95,663",-2.42%,-2.51%,53.22%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+98,99,HEAT HEAT,HEAT,"$5,489,637",$0.212932,"25,781,136 *","$34,875",0.87%,37.25%,90.95%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+99,100,UNITY SuperNET,UNITY,"$5,448,437",$6.68,"816,061 *","$1,137",4.51%,11.57%,52.45%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+100,101,XBC Bitcoin Plus,XBC,"$5,362,071",$55.87,"95,982 *","$381,299",-4.82%,-1.49%,12.98%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+101,102,VIA Viacoin,VIA,"$5,178,964",$0.229269,22589058,"$479,531",-2.39%,-4.28%,18.66%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+102,103,FTC  Feathercoin,FTC,"$5,048,144",$0.031353,161009720,"$201,669",-2.30%,8.97%,53.58%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+103,104,BELA  Bela,BELA,"$4,969,445",$0.145554,"34,141,600 *","$343,278",-0.97%,-2.60%,11.33%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+104,105,PASC Pascal Coin,PASC,"$4,961,247",$0.543121,9134700,"$1,189,216",-1.16%,-2.34%,45.97%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+105,106,SLR  SolarCoin,SLR,"$4,878,399",$0.138815,"35,143,232 *","$9,403",0.73%,1.72%,21.67%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+106,107,DAR Darcrus,DAR,"$4,689,152",$0.344189,"13,623,762 *","$83,514",-0.75%,-13.74%,38.23%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+107,108,SHIFT Shift,SHIFT,"$4,614,535",$0.429267,"10,749,799 *","$41,632",-2.17%,4.75%,46.70%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+108,109,SIB  SIBCoin,SIB,"$4,302,932",$0.299270,14378109,"$13,728",-0.70%,-3.74%,11.46%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+109,110,AEON  Aeon,AEON,"$4,248,822",$0.301762,14080034,"$13,926",13.92%,10.68%,35.01%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+110,111,GAM Gambit,GAM,"$4,215,003",$3.28,"1,285,553 *","$34,063",-0.49%,-1.09%,64.61%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+111,112,NAUT NautilusCoin,NAUT,"$4,207,987",$0.260073,"16,180,000 *","$390,000",6.37%,-6.11%,5.15%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+112,113,VRC  VeriCoin,VRC,"$4,090,403",$0.135612,30162448,"$652,467",-2.97%,4.20%,49.07%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+113,114,NEOS  NeosCoin,NEOS,"$4,054,724",$1.22,3311901,"$123,604",1.79%,3.08%,30.45%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+114,115,PEPECASH  Pepe Cash,PEPECASH,"$3,879,537",$0.005527,"701,884,009 *","$12,635",3.75%,-8.95%,26.26%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+115,116,INCNT Incent,INCNT,"$3,714,353",$0.161435,"23,008,312 *","$88,010",1.60%,6.65%,-2.21%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+116,117,LMC LoMoCoin,LMC,"$3,580,742",$0.017309,"206,870,314 *","$8,553",1.16%,5.38%,2.14%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+117,118,PINK Pinkcoin,PINK,"$3,480,694",$0.011278,308636100,"$702,819",-5.08%,-10.21%,7.39%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+118,119,ENRG Energycoin,ENRG,"$3,475,941",$0.028757,120873159,"$7,561",-7.23%,5.36%,37.37%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+119,120,EDC EDC Blockchain,EDC,"$3,433,635",$0.040279,85245728,"$275,017",-0.84%,-6.93%,-26.44%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+120,121,POSW PoSW Coin,POSW,"$3,147,639",$0.076772,"41,000,000 *","$228,573",-1.67%,-24.55%,-32.28%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+121,122,GOLOS Golos,GOLOS,"$3,097,804",$0.025365,122129295,"$12,424",0.77%,3.57%,-3.83%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+122,123,SDC ShadowCash,SDC,"$3,093,557",$0.464623,"6,658,206 *","$13,369",1.78%,2.69%,-18.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+123,124,UNO Unobtanium,UNO,"$3,069,219",$15.52,197701,"$60,965",0.70%,10.32%,35.65%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+124,125,FAIR FairCoin,FAIR,"$3,050,260",$0.057482,"53,064,685 *",$534,0.37%,-6.17%,2.67%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+125,126,MGC MergeCoin,MGC,"$2,994,703",$0.088075,"34,001,704 *","$1,545,670",4.41%,-3.59%,-19.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+126,127,MEC Megacoin,MEC,"$2,878,691",$0.087534,32886450,"$405,191",-0.01%,-8.44%,-26.27%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+127,128,FLO FLO,FLO,"$2,781,615",$0.022397,124197561,"$221,995",-1.85%,-2.14%,17.83%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+128,129,EMC2 Einsteinium,EMC2,"$2,780,914",$0.013242,210006496,"$540,222",3.87%,-5.10%,12.51%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+129,130,CLOAK CloakCoin,CLOAK,"$2,682,057",$0.537312,"4,991,620 *","$8,489",0.79%,0.74%,8.31%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+130,131,AUR Auroracoin,AUR,"$2,647,681",$0.305802,8658139,"$22,007",-2.51%,-5.22%,41.29%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+131,132,WDC WorldCoin,WDC,"$2,605,594",$0.022807,114247121,"$68,965",-5.78%,3.30%,47.35%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+132,133,XVC Vcash,XVC,"$2,512,510",$0.164987,15228536,"$124,457",-3.08%,6.57%,51.22%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+133,134,SPR SpreadCoin,SPR,"$2,438,778",$0.305658,7978784,"$41,203",8.05%,0.47%,5.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+134,135,MOON Mooncoin,MOON,"$2,424,899",$0.000011,221864118357,"$4,159",-5.10%,73.81%,230.09%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+135,136,JNS Janus,JNS,"$2,401,399",$0.130032,"18,467,709 *",$783,-18.08%,-16.01%,49.69%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+136,137,NOTE DNotes,NOTE,"$2,387,111",$0.021526,110895736,"$126,891",-6.26%,-6.59%,29.68%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+137,138,IFC Infinitecoin,IFC,"$2,274,733",$0.000025,90596274910,"$652,410",-0.99%,38.74%,108.39%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+138,139,SFT Safex Token,SFT,"$2,229,188",$0.001038,"2,147,483,647 *","$9,924",10.34%,-1.61%,34.53%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+139,140,DGC Digitalcoin,DGC,"$2,215,823",$0.064433,34389793,"$262,624",-0.96%,-10.22%,-14.13%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+140,141,DBIX DubaiCoin,DBIX,"$2,203,670",$2.59,851933,"$17,388",4.15%,-9.73%,-17.67%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+141,142,ZENI Zennies,ZENI,"$2,201,518",$0.002200,"1,000,662,495 *","$5,760",2.63%,6.91%,34.06%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+142,143,FLDC FoldingCoin,FLDC,"$2,144,878",$0.004452,"481,783,651 *","$610,169",0.78%,-12.41%,38.13%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+143,144,TIPS FedoraCoin,TIPS,"$2,120,557",$0.000005,443168182458,"$13,855",-14.59%,31.98%,24.55%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+144,145,SLS SaluS,SLS,"$2,082,654",$2.08,"1,003,331 *","$3,363",-7.17%,-6.14%,-2.84%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+145,146,XBY XTRABYTES,XBY,"$2,075,723",$0.003193,"650,000,000 *","$67,339",-9.72%,26.34%,27.06%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+146,147,YOC Yocoin,YOC,"$2,044,959",$0.019362,105618830,"$118,077",0.16%,3.15%,27.86%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+147,148,BSD BitSend,BSD,"$1,997,953",$0.133539,14961600,"$45,317",2.33%,-7.51%,-23.25%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+148,149,RIC Riecoin,RIC,"$1,857,464",$0.055502,33466725,"$189,197",-3.95%,-7.97%,-8.45%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+149,150,GLC GoldCoin,GLC,"$1,852,167",$0.046082,40192668,"$7,505",2.18%,-2.77%,-18.47%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+150,151,BTM Bitmark,BTM,"$1,834,518",$0.470247,3901180,"$222,762",-1.16%,-12.09%,9.83%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+151,152,RDD ReddCoin,RDD,"$1,811,444",$0.000064,"28,279,196,459 *","$14,107",-13.88%,-11.65%,-29.76%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+152,153,ZCC ZcCoin,ZCC,"$1,808,477",$0.029331,61657044,"$421,918",2.61%,-6.06%,-4.90%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+153,154,OBITS OBITS,OBITS,"$1,786,660",$0.182292,"9,801,100 *","$55,775",6.00%,9.88%,50.35%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+154,155,CURE Curecoin,CURE,"$1,766,154",$0.066821,26431310,"$4,302",2.43%,-21.36%,14.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+155,156,WBB Wild Beast Block,WBB,"$1,749,888",$0.759678,2303462,"$1,370",0.65%,3.09%,-9.49%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+156,157,DWC DeepWebCash,DWC,"$1,733,677",$1.52,1142350,"$13,102",0.48%,0.94%,1505.25%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+157,158,GRS Groestlcoin,GRS,"$1,731,658",$0.025688,67411870,"$5,304",0.95%,-7.03%,-16.40%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+158,159,QRK Quark,QRK,"$1,716,298",$0.006862,250101047,"$14,382",-1.47%,8.33%,-0.24%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+159,160,ATMOS Atmos,ATMOS,"$1,695,445",$0.016948,"100,040,434 *","$23,066",0.89%,2.27%,38.76%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+160,161,CCRB CryptoCarbon,CCRB,"$1,666,788",$0.467921,"3,562,111 *","$2,065",5.04%,-8.43%,-11.32%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+161,162,BOST BoostCoin,BOST,"$1,631,521",$0.137617,11855487,"$311,871",0.35%,-3.12%,-15.13%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+162,163,TX TransferCoin,TX,"$1,614,490",$0.271857,"5,938,754 *","$13,985",-0.47%,-0.01%,27.35%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+163,164,DMD Diamond,DMD,"$1,588,666",$0.763392,2081063,"$2,477",0.86%,0.60%,3.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+164,165,SBD Steem Dollars,SBD,"$1,588,014",$1.48,"1,074,927 *","$190,261",-4.63%,-0.04%,11.06%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets  View Historical Data
+165,166,XDN DigitalNote,XDN,"$1,573,180",$0.000229,6879904946,"$51,551",-3.58%,16.51%,27.93%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+166,167,ARC Advanced Tech...,ARC,"$1,573,111",$0.067977,23141671,"$18,566",13.01%,19.62%,-29.21%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+167,168,BITCNY bitCNY,BITCNY,"$1,506,773",$0.161161,"9,349,500 *","$564,542",25.81%,8.79%,12.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+168,169,VRS Veros,VRS,"$1,488,772",$0.018408,"80,877,397 *","$29,588",0.95%,12.57%,-52.89%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+169,170,BLOCKPAY BlockPay,BLOCKPAY,"$1,381,932",$0.254579,"5,428,300 *","$2,580",20.57%,-7.11%,-11.60%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart  View Markets View Historical Data
+170,171,OK OKCash,OK,"$1,365,812",$0.019204,"71,120,536 *","$3,662",1.36%,7.75%,-5.10%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+171,172,INSANE InsaneCoin,INSANE,"$1,359,054",$0.074106,18339415,"$11,737",35.61%,10.34%,10.15%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+172,173,SRC SecureCoin,SRC,"$1,289,479",$0.166589,7740461,"$241,512",2.47%,-9.78%,-3.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+173,174,BBR Boolberry,BBR,"$1,282,823",$0.134574,9532480,"$8,552",0.85%,28.92%,-11.07%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+174,175,TAG TagCoin,TAG,"$1,279,650",$0.234674,5452890,"$191,346",-5.17%,-11.06%,-8.86%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+175,176,VTR vTorrent,VTR,"$1,274,350",$0.117821,10815966,"$7,456",10.31%,4.55%,17.97%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+176,177,SPHR Sphere,SPHR,"$1,181,415",$0.383210,"3,082,940 *","$10,656",0.82%,3.78%,22.26%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+177,178,CHC ChainCoin,CHC,"$1,157,195",$0.079930,14477594,"$13,962",0.85%,-8.87%,14.68%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+178,179,HUC HunterCoin,HUC,"$1,088,396",$0.062991,17278700,"$119,562",-7.59%,-0.40%,30.92%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+179,180,ESP Espers,ESP,"$1,071,753",$0.000053,20041568851,"$25,503",4.03%,125.93%,219.22%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+180,181,VISIO Visio,VISIO,"$1,071,314",$0.021239,"50,439,961 *",$881,13.04%,46.80%,5.67%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+181,182,XVG Verge,XVG,"$1,070,891",$0.000080,13409472280,"$16,508",13.27%,-8.23%,0.05%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+182,183,SEQ Sequence,SEQ,"$1,046,847",$0.023456,44630869,"$11,537",0.82%,-2.45%,26.80%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+183,184,RISE Rise,RISE,"$1,045,866",$0.009739,"107,387,215 *","$3,119",0.56%,-1.14%,5.92%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+184,185,DYN Dynamic,DYN,"$1,045,243",$0.656871,1591246,"$4,155",2.68%,5.57%,34.66%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+185,186,NANO Nano,NANO,"$1,018,118",$0.015770,"64,558,827 *","$7,992",1.19%,2.48%,0.14%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+186,187,XCN Cryptonite,XCN,"$1,012,829",$0.003156,320957908,"$97,382",0.17%,4.26%,19.07%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+187,188,BITUSD bitUSD,BITUSD,"$991,710",$1.09,"907,606 *","$227,695",20.29%,7.89%,9.51%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+188,189,XSPEC Spectrecoin,XSPEC,"$970,238",$0.047737,"20,324,465 *","$21,306",16.81%,24.40%,29.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+189,190,CV2 Colossuscoin V2,CV2,"$968,806",$0.000044,"22,095,813,099 *",$595,-0.86%,24.55%,318.40%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+190,191,ZET Zetacoin,ZET,"$959,380",$0.005779,166024900,"$44,416",-3.12%,22.32%,36.69%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+191,192,BTA Bata,BTA,"$939,650",$0.190117,4942488,"$16,290",3.38%,16.29%,-34.06%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+192,193,MER Mercury,MER,"$934,980",$0.009350,"100,000,000 *","$5,622",0.68%,4.97%,5.14%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+193,194,PURA Pura,PURA,"$927,004",$0.004231,219090942,"$13,226",-2.22%,-1.07%,18.60%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+194,195,ADZ Adzcoin,ADZ,"$892,494",$0.016315,54704760,"$3,780",-10.32%,-34.49%,41.11%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+195,196,ADC AudioCoin,ADC,"$890,198",$0.001122,793198644,"$7,155",0.62%,28.55%,11.28%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+196,197,AC AsiaCoin,AC,"$884,670",$0.001101,803541062,"$3,791",-13.05%,-4.66%,30.37%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+197,198,CNT Centurion,CNT,"$846,626",$0.035490,23855603,"$156,268",0.40%,6.45%,19.91%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+198,199,BRX Breakout Stake,BRX,"$845,802",$0.134938,"6,268,082 *","$2,407",0.82%,-3.72%,12.98%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+199,200,HKG Hacker Gold,HKG,"$806,244",$0.050043,"16,110,893 *","$2,218",0.82%,16.42%,1.55%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+200,201,XHI HiCoin,XHI,"$804,390",$0.004240,189729990,"$3,877",0.76%,61.14%,42.55%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+201,202,INPAY InPay,INPAY,"$791,010",$0.079101,"10,000,000 *","$44,083",-3.78%,25.78%,88.95%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+202,203,LOG Woodcoin,LOG,"$769,876",$0.095813,8035193,"$5,894",-0.09%,1.26%,18.11%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+203,204,ADCN Asiadigicoin,ADCN,"$749,364",$0.030057,24931054,"$6,070",-0.05%,0.18%,-0.71%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+204,205,BRK Breakout,BRK,"$739,395",$0.041435,17844847,"$1,510",0.82%,10.72%,37.20%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+205,206,ICOO ICO OpenLedger,ICOO,"$737,503",$1.56,"471,795 *","$3,872",0.35%,-33.70%,16.89%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+206,207,MUSIC Musicoin,MUSIC,"$712,915",$0.005301,134496876,"$11,626",0.35%,1.35%,-12.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+207,208,BLITZ Blitzcash,BLITZ,"$675,530",$0.166408,"4,059,475 *","$2,451",0.82%,-0.89%,18.38%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+208,209,SATOSHICARD SATOSHICARD,SATOSHICARD,"$639,462",$3197.31,200 *,"$2,842",2.53%,2.87%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+209,210,BITB Bean Cash,BITB,"$634,479",$0.000331,1918868000,"$17,384",-0.69%,1.06%,-2.74%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+210,211,ENV Environ,ENV,"$629,563",$0.004886,"128,852,114 *","$133,137",-7.40%,?,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+211,212,EXCL ExclusiveCoin,EXCL,"$581,732",$0.143464,4054889,"$9,707",4.63%,-8.32%,-13.81%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+212,213,MED Mediterranean...,MED,"$576,443",$0.011656,49454728,"$33,049",8.14%,0.45%,22.54%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+213,214,XMY Myriad,XMY,"$569,633",$0.000385,1480012496,"$15,521",4.90%,17.39%,16.91%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+214,215,UIS Unitus,UIS,"$553,682",$0.012129,45648555,"$16,621",5.05%,0.34%,66.97%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+215,216,RNS Renos,RNS,"$548,889",$0.016460,"33,347,633 *","$22,098",0.09%,-19.91%,-31.45%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+216,217,ABY ArtByte,ABY,"$548,834",$0.000717,765632050,"$8,007",16.76%,24.62%,52.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+217,218,CADASTRAL Bitland,CADASTRAL,"$542,546",$0.018085,"30,000,000 *","$6,946",52.99%,-26.77%,17.04%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+218,219,EFL e-Gulden,EFL,"$538,944",$0.035187,15316696,"$1,805",0.83%,1.93%,22.25%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+219,220,QWARK Qwark,QWARK,"$527,276",$0.033020,"15,968,408 *","$2,442",0.82%,2.47%,-15.10%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+220,221,COVAL Circuits of V...,COVAL,"$517,334",$0.001293,"400,000,000 *","$19,815",3.59%,15.89%,13.10%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+221,222,CPC Capricoin,CPC,"$511,775",$0.535056,"956,488 *","$35,872",4.01%,2.97%,82.46%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+222,223,TRUMP TrumpCoin,TRUMP,"$511,399",$0.078251,6535336,"$3,086",0.30%,0.47%,10.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+223,224,ERC EuropeCoin,ERC,"$510,873",$0.052292,9769565,"$1,108",0.40%,-4.46%,-0.80%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+224,225,GEO GeoCoin,GEO,"$499,673",$0.203526,"2,455,079 *","$1,941",-4.30%,-2.41%,35.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+225,226,EGC EverGreenCoin,EGC,"$494,334",$0.037146,13307974,"$10,505",-1.16%,4.86%,-37.81%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+226,227,CSC CasinoCoin,CSC,"$481,362",$0.012470,"38,601,187 *","$2,817",0.89%,14.61%,39.42%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+227,228,EL Elcoin,EL,"$478,824",$0.042718,"11,208,967 *","$1,774",-1.84%,-4.62%,31.16%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+228,229,IXC Ixcoin,IXC,"$476,403",$0.022687,"20,999,088 *","$1,631",0.93%,-6.86%,-4.47%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+229,230,MAX Maxcoin,MAX,"$467,698",$0.008591,54442678,"$13,469",-4.35%,-1.51%,31.37%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+230,231,START Startcoin,START,"$467,476",$0.010370,45079785,"$16,705",1.51%,3.99%,31.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+231,232,VLT Veltor,VLT,"$442,971",$0.798355,554855,"$17,835",-40.43%,-30.47%,-48.79%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+232,233,PTC Pesetacoin,PTC,"$424,011",$0.003258,130125328,"$1,153",-0.64%,-10.49%,38.06%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+233,234,2GIVE 2GIVE,2GIVE,"$416,280",$0.000813,512203654,"$1,875",9.00%,15.36%,40.04%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+234,235,RVR RevolutionVR,RVR,"$413,194",$0.013117,"31,500,000 *","$30,534",-0.45%,13.31%,1.74%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+235,236,FCN Fantomcoin,FCN,"$413,174",$0.071852,5750314,"$4,698",3.57%,8.94%,-7.83%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+236,237,VRM VeriumReserve,VRM,"$411,573",$0.385718,1067030,"$3,096",2.24%,23.90%,5.35%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+237,238,TIX Tickets,TIX,"$406,943",$0.000006,66876281414,"$9,882",2.21%,36.87%,37.63%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+238,239,SNRG Synergy,SNRG,"$406,831",$0.150107,"2,710,277 *",$642,-6.75%,-10.34%,16.63%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+239,240,BITS Bitswift,BITS,"$404,686",$0.099679,"4,059,906 *",$543,0.65%,-5.02%,14.61%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+240,241,SYNX Syndicate,SYNX,"$397,539",$0.035278,11268860,"$3,338",-1.74%,1.22%,13.92%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+241,242,TKS Tokes,TKS,"$391,912",$0.605153,"647,624 *","$3,492",0.76%,-1.49%,1.33%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+242,243,TRUST TrustPlus,TRUST,"$379,124",$0.011816,"32,086,595 *",$575,2.07%,6.64%,7.75%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+243,244,UNIBURST UniBURST,UNIBURST,"$375,346",$0.375346,"1,000,000 *","$4,562",-4.13%,-22.66%,-14.02%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+244,245,CANN CannabisCoin,CANN,"$371,561",$0.004811,77231176,"$5,848",0.77%,2.22%,-0.96%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+245,246,TRC Terracoin,TRC,"$360,569",$0.018258,19748260,"$3,044",-5.22%,-7.33%,-1.69%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+246,247,J Joincoin,J,"$342,110",$0.139728,2448402,"$2,002",-1.44%,-18.55%,-21.20%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+247,248,HPC Happycoin,HPC,"$338,801",$0.030215,11212995,"$27,660",11.81%,16.38%,-21.89%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+248,249,RBT Rimbit,RBT,"$330,658",$0.002863,"115,499,623 *","$2,587",-0.06%,-2.29%,49.55%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+249,250,MOIN Moin,MOIN,"$323,501",$0.046853,"6,904,629 *","$12,660",-9.75%,3.21%,28.45%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+250,251,KORE Kore,KORE,"$322,405",$0.176086,"1,830,949 *",$890,0.84%,-6.54%,40.02%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+251,252,XMG Magi,XMG,"$310,009",$0.044800,6919808,"$6,320",6.35%,-10.25%,-39.19%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+252,253,XTC TileCoin,XTC,"$304,491",$0.003045,"100,000,000 *","$8,805",0.48%,8.01%,9.51%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+253,254,NSR NuShares,NSR,"$302,032",$0.000112,"2,702,268,334 *","$2,934",0.83%,17.93%,35.27%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+254,255,MSCN Master Swiscoin,MSCN,"$293,011",$0.030421,"9,631,936 *","$11,339",8.67%,-6.25%,-31.28%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+255,256,BTSR BTSR,BTSR,"$291,629",$0.088084,"3,310,819 *","$1,719",6.05%,-12.94%,23.30%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+256,257,ATOM Atomic Coin,ATOM,"$284,087",$0.028472,9977866,"$1,990",0.66%,-29.05%,1.20%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+257,258,POST PostCoin,POST,"$280,085",$0.017808,"15,727,654 *","$4,530",0.68%,2.86%,21.54%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+258,259,I0C I0Coin,I0C,"$258,182",$0.012311,20972192,"$1,286",0.85%,2.27%,19.98%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+259,260,XVP Virtacoinplus,XVP,"$257,914",$0.029580,8719116,"$1,782",5.32%,38.98%,7.31%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+260,261,XWC WhiteCoin,XWC,"$254,555",$0.000830,"306,584,146 *","$1,731",-0.51%,-4.04%,8.13%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+261,262,PSB Pesobit,PSB,"$253,002",$0.007778,"32,529,784 *",$660,-0.01%,1.25%,-10.27%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+262,263,ORB Orbitcoin,ORB,"$252,965",$0.086135,2936837,"$4,464",0.89%,3.00%,7.54%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+263,264,DOPE DopeCoin,DOPE,"$252,581",$0.002283,"110,620,648 *","$1,683",1.14%,-5.31%,16.20%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+264,265,DEM Deutsche eMark,DEM,"$248,517",$0.008942,27793416,"$7,122",0.80%,19.99%,29.05%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+265,266,SMC SmartCoin,SMC,"$241,848",$0.010614,22786782,"$3,137",-0.27%,11.48%,14.90%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+266,267,PROC ProCurrency,PROC,"$233,743",$0.083029,"2,815,205 *","$1,120",4.85%,20.08%,-18.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+267,268,1337 Elite,1337,"$227,862",$0.000010,"21,777,963,892 *","$3,653",-0.42%,71.08%,100.77%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+268,269,JWL Jewels,JWL,"$225,010",$0.011161,"20,159,695 *","$2,276",0.82%,7.01%,-2.43%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+269,270,HUSH Hush,HUSH,"$218,190",$0.198195,1100888,"$7,265",1.17%,1.78%,51.33%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+270,271,THC HempCoin,THC,"$213,874",$0.001010,211823061,$581,12.24%,2.79%,-10.06%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+271,272,MEME Memetic / Pep...,MEME,"$212,320",$0.015957,13305843,"$1,966",-8.38%,-1.73%,-13.96%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+272,273,TES TeslaCoin,TES,"$202,614",$0.002866,70691621,"$4,869",1.98%,30.00%,72.58%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+273,274,USNBT NuBits,USNBT,"$199,796",$1.02,"196,772 *","$7,511",0.28%,0.78%,0.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+274,275,ZER Zero,ZER,"$195,929",$0.349355,560830,"$1,924",0.77%,3.46%,72.19%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+275,276,MAZA MAZA,MAZA,"$193,532",$0.000177,1092618137,"$2,373",0.95%,20.41%,16.95%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+276,277,BLU BlueCoin,BLU,"$192,598",$0.000335,574683675,"$1,491",0.86%,4.03%,24.18%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+277,278,GCC Global Crypto...,GCC,"$181,246",$0.027559,"6,576,620 *","$2,601",-4.60%,1.08%,3.26%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+278,279,QTL Quatloo,QTL,"$175,709",$0.023838,7371033,"$15,891",-1.52%,0.35%,-34.93%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+279,280,8BIT 8Bit,8BIT,"$171,841",$0.148294,"1,158,788 *","$1,839",0.46%,4.30%,-0.65%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+280,281,PKB ParkByte,PKB,"$169,515",$0.035582,"4,764,026  *","$1,499",0.79%,-20.12%,-21.09%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+281,282,DOT Dotcoin,DOT,"$168,601",$0.000771,"218,717,000 *","$2,256",-0.45%,5.56%,7.31%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+282,283,DRACO DT Token,DRACO,"$163,219",$0.001836,"88,888,888 *","$6,502",9.04%,9.29%,-17.19%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+283,284,RBIES Rubies,RBIES,"$162,427",$0.015671,"10,364,977 *",$589,-0.79%,-14.17%,-1.07%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+284,285,FC2 FuelCoin,FC2,"$161,882",$0.001597,101384137,$656,0.87%,0.12%,-3.73%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+285,286,KOBO Kobocoin,KOBO,"$157,685",$0.006384,"24,700,248 *","$1,128",0.84%,5.26%,-24.87%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+286,287,KRB Karbo,KRB,"$138,730",$0.041749,3322955,"$5,015",-9.12%,3.22%,9.78%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+287,288,GB GoldBlocks,GB,"$138,315",$0.009362,14774666,"$1,564",0.66%,18.45%,35.86%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+288,289,MTM MTMGaming,MTM,"$134,593",$0.044864,"3,000,000 *","$2,897",-0.51%,-8.92%,0.98%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+289,290,BYC Bytecent,BYC,"$133,139",$0.084003,1584934,$702,6.93%,8.74%,0.32%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+290,291,SLG Sterlingcoin,SLG,"$130,906",$0.033729,3881156,"$4,467",0.79%,3.46%,20.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+291,292,INFX Influxcoin,INFX,"$124,100",$0.074161,1673383,"$9,348",-2.19%,-17.61%,-8.04%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+292,293,MAC Machinecoin,MAC,"$123,663",$0.006387,19360375,"$1,134",0.82%,-5.69%,-41.14%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+293,294,KURT Kurrent,KURT,"$122,611",$0.012361,9919485,"$2,285",31.68%,59.65%,30.10%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+294,295,BTCR Bitcurrency,BTCR,"$119,334",$0.000721,"165,465,416 *",$616,0.77%,40.67%,256.32%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+295,296,TOR Torcoin,TOR,"$116,122",$0.868175,133755,$877,-6.31%,38.27%,-42.26%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+296,297,VIDZ PureVidz,VIDZ,"$115,543",$0.000923,"125,151,185 *","$3,842",0.10%,1.44%,-1.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+297,298,SAC SACoin,SAC,"$115,438",$0.017562,6573177,"$1,454",10.55%,10.63%,-20.40%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+298,299,MOJO MojoCoin,MOJO,"$114,022",$0.009466,"12,045,254 *","$5,184",1.42%,-0.99%,-15.70%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+299,300,PRC PRCoin,PRC,"$111,712",$0.012931,8639000,"$1,157",-0.09%,-2.27%,-28.73%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+300,301,SXC Sexcoin,SXC,"$103,894",$0.000851,122037414,"$1,368",0.74%,-4.78%,12.81%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+301,302,CREVA CrevaCoin,CREVA,"$101,486",$0.002789,36390750,"$30,668",-1.08%,-5.37%,67.39%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+302,303,WYV Wyvern,WYV,"$99,841",$0.111770,"893,275 *",$644,0.82%,8.85%,13.61%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+303,304,ELE Elementrem,ELE,"$98,800",$0.003992,24751006,$529,-8.68%,-4.36%,13.92%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+304,305,UNB UnbreakableCoin,UNB,"$97,792",$0.042926,2278150,"$3,301",5.54%,-6.73%,10.17%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+305,306,NETKO Netko,NETKO,"$94,208",$0.054427,1730897,"$6,501",0.08%,5.28%,90.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+306,307,TRI Triangles,TRI,"$93,208",$1.28,72891,"$2,486",0.79%,-5.97%,-5.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+307,308,CNO Coin(O),CNO,"$91,630",$0.000892,102763106,$769,0.82%,-23.71%,-12.47%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+308,309,GAIA GAIA,GAIA,"$90,820",$0.003768,"24,101,381 *","$3,119",0.78%,24.94%,43.17%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+309,310,MCRN MACRON,MCRN,"$90,354",$0.000225,"401,421,401 *","$35,691",-1.27%,-27.06%,-30.17%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+310,311,BITBTC bitBTC,BITBTC,"$88,507",$1753.12,50.4852 *,"$9,693",12.25%,-4.38%,17.54%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+311,312,FRC Freicoin,FRC,"$88,479",$0.003177,27845612,"$8,081",0.82%,-12.54%,-22.58%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+312,313,FRN Francs,FRN,"$85,914",$0.050122,1714100,"$3,323",6.62%,-29.06%,183.04%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+313,314,PASL Pascal Lite,PASL,"$84,000",$0.051095,1644000,"$4,693",1.77%,8.49%,22.07%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+314,315,TIT Titcoin,TIT,"$68,676",$0.001376,49898202,"$2,595",0.85%,23.78%,63.40%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+315,316,BITSILVER bitSilver,BITSILVER,"$65,447",$18.30,"3,577 *","$5,693",33.60%,-10.88%,-4.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+316,317,TRK Truckcoin,TRK,"$63,898",$0.000538,"118,716,652 *","$1,481",0.86%,-2.66%,8.19%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+317,318,GXX GravityCoin,GXX,"$62,740",$0.047973,1307830,"$2,309",0.82%,-22.19%,15.67%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+318,319,BITEUR bitEUR,BITEUR,"$62,174",$1.02,"60,891 *","$43,183",7.28%,-12.08%,-5.44%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+319,320,ALL Allion,ALL,"$59,029",$0.009522,6199359,$636,0.81%,-16.74%,14.76%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+320,321,42 42-coin,42,"$57,155",$1360.84,41.999999,"$3,515",2.11%,-2.05%,8.37%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+321,322,BERN BERNcash,BERN,"$54,322",$0.000766,70884451,"$2,046",6.24%,-12.16%,4.21%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+322,323,BLC Blakecoin,BLC,"$53,256",$0.004471,11910789,"$3,048",-0.22%,17.51%,8.34%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+323,324,XRA Ratecoin,XRA,"$51,906",$0.000495,"104,861,179 *","$2,628",0.83%,-8.53%,-0.94%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+324,325,GCN GCN Coin,GCN,"$51,720",$5.8e-07,88621910000,$903,-15.16%,-13.33%,140.41%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+325,326,WEX Wexcoin,WEX,"$50,491",$0.329878,"153,060 *","$2,234",-0.09%,-3.47%,0.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+326,327,ZYD Zayedcoin,ZYD,"$48,951",$0.007840,6243840,"$1,765",0.82%,-21.18%,52.30%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+327,328,ERY Eryllium,ERY,"$48,165",$0.011472,4198661,"$3,204",0.83%,-25.18%,-41.10%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+328,329,GAP Gapcoin,GAP,"$46,890",$0.004375,10718004,"$5,315",0.83%,4.19%,34.21%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+329,330,IMS Independent M...,IMS,"$43,378",$0.008079,5368934,$528,0.82%,15.85%,-23.09%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+330,331,HYP HyperStake,HYP,"$42,968",$0.000111,"385,796,097 *",$590,16.95%,27.72%,67.21%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+331,332,EVO Evotion,EVO,"$41,829",$0.016940,2469220,$637,-50.60%,-6.72%,5.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+332,333,UNI Universe,UNI,"$37,936",$0.018857,"2,011,744 *","$4,285",0.77%,20.82%,43.66%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+333,334,BSTY GlobalBoost-Y,BSTY,"$32,738",$0.002872,11398430,"$2,546",0.78%,3.73%,26.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+334,335,HBN HoboNickels,HBN,"$32,352",$0.000703,46048816,$737,0.85%,0.45%,16.64%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+335,336,XCI Cannabis Indu...,XCI,"$29,706",$0.030369,978145,$830,0.81%,3.46%,16.64%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+336,337,ICOB ICOBID,ICOB,"$28,571",$0.000276,"103,603,035 *","$1,016",11.22%,-2.26%,-24.61%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+337,338,WORM WORM,WORM,"$28,054",$0.005636,4977302,"$4,228",0.82%,36.71%,15.32%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+338,339,NEVA  NevaCoin,NEVA,"$26,584",$0.015567,1707770,"$2,026",0.87%,11.57%,7.73%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+339,340,BIC  Bikercoin,BIC,"$22,759",$0.002555,8908932,"$3,133",0.82%,6.84%,10.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+340,341,BITGOLD bitGold,BITGOLD,"$21,089",$1364.65,15.454 *,"$1,027",22.61%,-17.03%,4.42%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+341,342,CON  PayCon,CON,"$20,847",$0.000905,"23,042,604 *","$3,287",8.66%,51.86%,96.59%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+342,343,ACOIN Acoin,ACOIN,"$19,616",$0.016077,1220085,"$6,188",0.74%,23.89%,93.46%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+343,344,BVC BeaverCoin,BVC,"$16,919",$0.005431,3115081,$720,0.67%,-6.63%,11.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+344,345,611  SixEleven,611,"$16,098",$0.039296,409650,"$3,523",-0.01%,1.25%,48.43%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+345,346,XLR  Solaris,XLR,"$13,105",$0.115027,"113,927 *",$577,-0.97%,4.02%,-37.85%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+346,347,XBTS  Beatcoin,XBTS,"$8,552",$0.005609,1524686,"$1,041",0.85%,-8.68%,-19.22%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+347,348,MAR Marijuanacoin,MAR,"$8,012",$0.015329,522690,"$1,802",0.99%,5.10%,7.18%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+348,349,VOLT Bitvolt,VOLT,"$6,757",$0.000447,"15,112,554 *","$3,073",19.26%,78.99%,-14.99%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+349,350,ELS Elysium,ELS,"$6,092",$0.001521,4005012,"$3,824",0.85%,4.10%,75.63%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+350,351,BENJI BenjiRolls,BENJI,"$3,539",$0.000192,18477781,$738,-3.18%,-12.20%,-7.55%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+351,352,CALC CaliphCoin,CALC,$132,$0.001517,87140,"$3,005",0.82%,-59.11%,186.80%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+352,353,ARC Arcade Token,ARC,"$7,290,190",$2.24,"3,248,814 *",Low Vol,2.27%,9.22%,88.78%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+353,354,SCOT Scotcoin,SCOT,"$5,457,933",$0.005458,"1,000,000,000 *",Low Vol,3.73%,1.12%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+354,355,XSD SounDAC,XSD,"$2,593,200",$0.001886,"1,374,840,478 *",Low Vol,7.16%,10.07%,266.20%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+355,356,EMV Ethereum Movi...,EMV,"$2,160,601",$0.329026,"6,566,666 *",Low Vol,2.27%,36.63%,44.43%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+356,357,PDC Project Decorum,PDC,"$1,147,236",$0.022945,"50,000,000 *",Low Vol,0.82%,3.01%,1.22%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+357,358,ZEIT Zeitcoin,ZEIT,"$1,121,243",$0.000031,36161779482,Low Vol,-1.06%,2.62%,36.57%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+358,359,DEX InstantDEX,DEX,"$883,872",$0.883872,"1,000,000 *",Low Vol,-0.90%,-0.10%,-29.45%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+359,360,BASH LuckChain,BASH,"$883,526",$0.001213,728080862,Low Vol,0.82%,29.38%,61.23%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+360,361,BPC Bitpark Coin,BPC,"$808,334",$0.010778,"75,000,000 *",Low Vol,0.82%,-20.11%,-13.84%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+361,362,TRIG Triggers,TRIG,"$807,910",$0.025164,"32,105,593 *",Low Vol,1.33%,-1.50%,-12.95%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+362,363,DBIC DubaiCoin,DBIC,"$784,288",$0.132091,5937465,Low Vol,0.72%,16.72%,17.58%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+363,364,PANGEA Pangea Poker,PANGEA,"$741,354",$0.741834,"999,352 *",Low Vol,4.51%,?,96.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+364,365,CAGE CageCoin,CAGE,"$722,270",$0.000007,101168328395,Low Vol,0.83%,-42.94%,1958.79%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+365,366,MINT MintCoin,MINT,"$698,523",$0.000029,"24,331,817,657 *",Low Vol,0.82%,-7.96%,65.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+366,367,PUT PutinCoin,PUT,"$567,036",$0.004712,120331715,Low Vol,0.81%,4.61%,-20.06%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+367,368,CASINO Casino,CASINO,"$559,478",$0.559478,"1,000,000 *",Low Vol,-0.51%,-22.32%,10.14%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+368,369,PND Pandacoin,PND,"$519,172",$0.000016,32514916898,Low Vol,?,1.10%,27.33%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+369,370,CARBON Carboncoin,CARBON,"$491,529",$0.000032,15391918056,Low Vol,0.74%,102.17%,23.99%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+370,371,XTO Tao,XTO,"$469,088",$0.015488,30287050,Low Vol,0.82%,4.67%,-6.00%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+371,372,USC Ultimate Secu...,USC,"$454,987",$0.043989,10343113,Low Vol,0.82%,3.14%,-9.30%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+372,373,GLC GlobalCoin,GLC,"$423,524",$0.006499,65171010,Low Vol,0.85%,-0.86%,51.18%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+373,374,DSH Dashcoin,DSH,"$338,040",$0.019549,17291579,Low Vol,-3.65%,7.12%,27.45%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+374,375,XST Stealth,XST,"$332,641",$0.012790,26008592,Low Vol,3.82%,-1.97%,19.47%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+375,376,CDN Canada eCoin,CDN,"$331,226",$0.003400,97415544,Low Vol,0.88%,3.67%,30.29%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+376,377,TALK BTCtalkcoin,TALK,"$326,248",$0.004997,65290635,Low Vol,-0.35%,-13.59%,132.94%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+377,378,MNM Mineum,MNM,"$323,578",$0.034290,9436367,Low Vol,1.29%,-3.99%,-4.70%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+378,379,RC RussiaCoin,RC,"$321,207",$0.039093,8216446,Low Vol,0.59%,28.11%,-23.42%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+379,380,REE ReeCoin,REE,"$312,674",$0.025282,12367704,Low Vol,0.77%,-16.34%,114.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+380,381,YASH YashCoin,YASH,"$270,805",$0.027080,"10,000,095 *",Low Vol,0.82%,14.21%,8.96%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+381,382,HTML5 HTML5COIN,HTML5,"$270,705",$0.000007,40659020000,Low Vol,0.77%,-21.43%,86.11%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+382,383,VLTC Vault Coin,VLTC,"$267,694",$0.009038,29619530,Low Vol,0.58%,-17.22%,24.47%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+383,384,DRS Digital Rupees,DRS,"$244,681",$0.000479,"510,802,961 *",Low Vol,0.82%,1.08%,7.71%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+384,385,TSTR Tristar Coin,TSTR,"$224,785",$0.044708,5027857,Low Vol,0.82%,-1.21%,5.96%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+385,386,BTB BitBar,BTB,"$194,535",$6.09,31934,Low Vol,-22.64%,-22.90%,-3.74%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+386,387,BUCKS SwagBucks,BUCKS,"$186,285",$0.950877,195909,Low Vol,0.94%,-10.92%,29.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+387,388,FUNK The Cypherfunks,FUNK,"$185,914",$0.000004,43841220000,Low Vol,1.60%,10.04%,29.77%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets  View Historical Data
+388,389,HTC HitCoin,HTC,"$175,579",$0.000016,10996318099,Low Vol,0.82%,?,17.42%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+389,390,NET NetCoin,NET,"$167,852",$0.000213,787126712,Low Vol,-6.52%,67.84%,40.05%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+390,391,TROLL Trollcoin,TROLL,"$166,661",$0.000302,551899017,Low Vol,-0.03%,8.14%,29.65%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+391,392,SHORTY Shorty,SHORTY,"$159,671",$0.001597,"100,000,000 *",Low Vol,0.82%,-0.90%,16.16%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+392,393,LOT LottoCoin,LOT,"$153,418",$0.000011,14491014421,Low Vol,-1.20%,-36.23%,37.61%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+393,394,SWING Swing,SWING,"$153,010",$0.069053,2215821,Low Vol,0.63%,41.38%,53.13%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+394,395,HODL HOdlcoin,HODL,"$150,553",$0.001996,75431644,Low Vol,0.82%,77.96%,15.70%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+395,396,BTX BitcoinTX,BTX,"$149,548",$0.001854,"80,660,681 *",Low Vol,-0.09%,1.26%,151.32%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets  View Historical Data
+396,397,DP DigitalPrice,DP,"$146,747",$0.006544,"22,426,250 *",Low Vol,-5.60%,-6.46%,94.08%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+397,398,NOBL NobleCoin,NOBL,"$144,993",$0.000063,2289844724,Low Vol,0.87%,33.67%,-15.91%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+398,399,CBX Bullion,CBX,"$136,388",$0.137137,994537,Low Vol,1.07%,14.29%,-19.14%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+399,400,FUND Cryptofund,FUND,"$136,148",$0.136148,"1,000,000 *",Low Vol,4.51%,-27.38%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets  View Historical Data
+400,401,BITS Bitstar,BITS,"$136,088",$0.005918,"22,997,226 *",Low Vol,0.85%,-46.24%,20.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+401,402,DBTC Debitcoin,DBTC,"$133,936",$0.007439,18003926,Low Vol,0.82%,290.09%,260.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+402,403,NKA IncaKoin,NKA,"$117,723",$0.000016,7441179319,Low Vol,0.55%,0.32%,0.58%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+403,404,CHESS ChessCoin,CHESS,"$116,459",$0.002178,"53,458,691 *",Low Vol,0.81%,-7.72%,179.20%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+404,405,LANA LanaCoin,LANA,"$116,459",$0.000159,733067641,Low Vol,0.80%,-10.59%,-15.61%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart  View Markets View Historical Data
+405,406,BITZ Bitz,BITZ,"$108,368",$0.054432,1990891,Low Vol,0.82%,?,-52.59%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets  View Historical Data
+406,407,STS Stress,STS,"$108,283",$0.000192,565134332,Low Vol,0.77%,34.63%,207.21%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets  View Historical Data
+407,408,AMS AmsterdamCoin,AMS,"$107,340",$0.011177,9603707,Low Vol,0.77%,20.91%,-25.98%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+408,409,XCT C-Bit,XCT,"$100,097",$0.000798,125379500,Low Vol,0.77%,-5.39%,13.09%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+409,410,MXT MarteXcoin,MXT,"$96,350",$0.035317,2728161,Low Vol,-2.90%,0.00%,5.78%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+410,411,MI Xiaomicoin,MI,"$94,075",$0.000232,"406,141,855 *",Low Vol,0.00%,122.64%,33.86%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+411,412,CJ Cryptojacks,CJ,"$92,647",$0.000228,406568581,Low Vol,0.82%,-73.43%,-4.55%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+412,413,PAK Pakcoin,PAK,"$91,806",$0.002593,35407950,Low Vol,-3.42%,0.66%,23.11%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+413,414,TEK TEKcoin,TEK,"$87,148",$0.000062,1414054562,Low Vol,0.82%,23.30%,47.90%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+414,415,ANC Anoncoin,ANC,"$87,032",$0.041241,2110317,Low Vol,0.92%,1.48%,35.86%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+415,416,BLRY BillaryCoin,BLRY,"$86,922",$0.009676,8983158,Low Vol,0.82%,2.10%,-35.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+416,417,ENT Eternity,ENT,"$86,341",$0.031373,2752044,Low Vol,0.82%,14.22%,-11.30%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+417,418,LDOGE LiteDoge,LDOGE,"$82,939",$0.000006,"14,757,826,159 *",Low Vol,-0.03%,-7.92%,56.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+418,419,DRAGON BTCDragon,DRAGON,"$80,052",$0.173509,"461,370 *",Low Vol,-3.47%,-21.38%,18.86%,Add to Watchlist Remove from Watchlist Watchlist full!  View Chart View Markets View Historical Data
+419,420,TSE Tattoocoin (S...,TSE,"$79,896",$0.000701,"113,923,660 *",Low Vol,0.70%,-25.37%,-42.19%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+420,421,LTB LiteBar,LTB,"$79,330",$0.127637,621529,Low Vol,0.86%,-2.03%,68.36%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+421,422,FLT FlutterCoin,FLT,"$77,270",$0.000240,322214524,Low Vol,0.83%,-40.07%,1.76%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+422,423,PIGGY Piggycoin,PIGGY,"$76,775",$0.000159,483396053,Low Vol,2.12%,-30.77%,-15.13%,Add to Watchlist Remove from Watchlist  Watchlist full! View Chart View Markets View Historical Data
+423,424,ZOI Zoin,ZOI,"$76,585",$0.007930,9657100,Low Vol,0.67%,-1.18%,-41.81%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+424,425,MILO MiloCoin,MILO,"$76,112",$0.007792,9767712,Low Vol,0.82%,-11.92%,-7.22%,Add to Watchlist Remove from Watchlist  Watchlist full! View Chart View Markets View Historical Data
+425,426,FLY Flycoin,FLY,"$75,885",$0.359978,"210,806 *",Low Vol,-4.34%,-2.51%,-20.07%,Add to Watchlist Remove from Watchlist  Watchlist full! View Chart View Markets View Historical Data
+426,427,XPY PayCoin,XPY,"$73,728",$0.006307,11689864,Low Vol,-0.57%,23.58%,-21.47%,Add to Watchlist Remove from Watchlist  Watchlist full! View Chart View Markets View Historical Data
+427,428,NEU NeuCoin,NEU,"$73,338",$0.000037,"1,990,764,588 *",Low Vol,-0.67%,-24.59%,8.17%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+428,429,KTN KarmaToken,KTN,"$73,199",$0.010969,"6,673,000 *",Low Vol,-0.54%,1.00%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+429,430,NTRN Neutron,NTRN,"$69,791",$0.005531,"12,617,684 *",Low Vol,0.68%,-28.90%,17.43%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+430,431,CCM100 CCMiner,CCM100,"$69,550",$0.031868,"2,182,421 *",Low Vol,11.92%,30.14%,59.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+431,432,XPD PetroDollar,XPD,"$69,167",$0.001081,63993275,Low Vol,1.17%,-3.53%,21.75%,Add to Watchlist Remove from Watchlist  Watchlist full! View Chart View Markets View Historical Data
+432,433,UNITS GameUnits,UNITS,"$66,431",$0.019302,"3,441,715 *",Low Vol,5.45%,17.55%,-55.88%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+433,434,FST Fastcoin,FST,"$66,217",$0.000522,126764507,Low Vol,-2.38%,5.44%,19.89%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+434,435,CAP Bottlecaps,CAP,"$62,985",$0.000479,131435955,Low Vol,0.79%,9.36%,-3.18%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+435,436,QCN QuazarCoin,QCN,"$62,581",$0.011177,5599053,Low Vol,0.81%,3.92%,12.37%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+436,437,ATX Artex Coin,ATX,"$62,296",$0.003341,18646740,Low Vol,0.82%,29.31%,12.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+437,438,CORG CorgiCoin,CORG,"$59,966",$0.000048,"1,251,855,418 *",Low Vol,0.85%,118.75%,152.13%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+438,439,NLC2 NoLimitCoin,NLC2,"$57,609",$0.000287,"200,443,428 *",Low Vol,0.82%,-13.36%,-34.18%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+439,440,VEC2 VectorAI,VEC2,"$56,611",$0.003598,15733640,Low Vol,-0.09%,1.26%,145.87%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+440,441,KUSH KushCoin,KUSH,"$56,413",$0.010487,5379304,Low Vol,-0.33%,37.72%,53.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+441,442,WAY WayGuide,WAY,"$55,908",$0.000559,"100,040,708 *",Low Vol,0.82%,5.62%,38.20%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+442,443,RED RedCoin,RED,"$54,021",$0.000729,74107896,Low Vol,1.12%,4.98%,-20.09%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+443,444,DLC Dollarcoin,DLC,"$53,365",$0.005860,9106714,Low Vol,0.82%,?,14.43%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+444,445,PXC Phoenixcoin,PXC,"$48,455",$0.000846,57257900,Low Vol,2.79%,9.40%,40.83%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+445,446,HONEY Honey,HONEY,"$46,197",$0.676317,68306,Low Vol,0.52%,-26.89%,-43.79%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+446,447,UNIT Universal Cur...,UNIT,"$46,164",$0.003538,13046431,Low Vol,0.82%,148.89%,-7.16%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+447,448,808 808Coin,808,"$44,824",$0.000335,133607852,Low Vol,-3.69%,-5.67%,8.47%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+448,449,YAC Yacoin,YAC,"$44,237",$0.000383,115436219,Low Vol,0.85%,1.09%,9.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+449,450,FJC FujiCoin,FJC,"$43,808",$0.000048,916325308,Low Vol,0.67%,-5.88%,31.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+450,451,AMBER AmberCoin,AMBER,"$43,205",$0.000990,43643263,Low Vol,0.82%,-2.77%,10.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+451,452,PHS Philosopher S...,PHS,"$42,511",$0.017500,"2,429,219 *",Low Vol,0.89%,22.93%,43.60%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+452,453,NYAN Nyancoin,NYAN,"$41,412",$0.000139,297891209,Low Vol,0.40%,17.58%,62.09%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+453,454,XRE RevolverCoin,XRE,"$40,479",$0.001868,21667936,Low Vol,0.77%,2.93%,18.56%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+454,455,SPRTS Sprouts,SPRTS,"$39,518",$2.9e-07,"135,314,675,395 *",Low Vol,-8.12%,-11.85%,12.64%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+455,456,JIN Jin Coin,JIN,"$39,313",$0.003992,9848485,Low Vol,0.82%,140.66%,106.59%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+456,457,LEX Lex4All,LEX,"$38,971",$0.046033,"846,596 *",Low Vol,12.27%,-4.35%,24.56%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+457,458,CUBE DigiCube,CUBE,"$38,786",$0.000016,"2,429,126,009 *",Low Vol,0.82%,?,106.71%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+458,459,GUN Guncoin,GUN,"$34,730",$0.000193,179776978,Low Vol,0.56%,5.86%,4.09%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+459,460,PULSE Pulse,PULSE,"$34,454",$0.002410,14298972,Low Vol,-5.07%,228.22%,273.37%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+460,461,BIGUP BigUp,BIGUP,"$32,569",$0.000016,2039775466,Low Vol,0.77%,0.89%,18.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+461,462,BIP BipCoin,BIP,"$32,171",$0.023939,1343889,Low Vol,20.76%,21.04%,61.94%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+462,463,MAD SatoshiMadness,MAD,"$31,945",$0.000016,"2,000,683,485 *",Low Vol,0.73%,0.89%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+463,464,SPACE SpaceCoin,SPACE,"$31,499",$0.001809,17417339,Low Vol,2.28%,24.45%,24.85%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+464,465,GP GoldPieces,GP,"$31,194",$0.025565,"1,220,161 *",Low Vol,-0.11%,-4.16%,-24.28%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+465,466,TIT TittieCoin,TIT,"$30,146",$0.000024,"1,259,816,434 *",Low Vol,5.47%,-35.65%,-13.33%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+466,467,AU Aurum Coin,AU,"$29,946",$0.101171,295992,Low Vol,0.35%,1.63%,25.24%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+467,468,CCN CannaCoin,CCN,"$29,724",$0.006328,4697173,Low Vol,-3.11%,-18.84%,-31.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+468,469,FRK Franko,FRK,"$29,494",$0.046305,636950,Low Vol,0.85%,3.28%,73.74%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+469,470,EMD Emerald Crypto,EMD,"$29,295",$0.001533,19111505,Low Vol,0.96%,3.66%,5.83%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+470,471,EVIL Evil Coin,EVIL,"$29,162",$0.001387,21020383,Low Vol,0.09%,8.77%,68.29%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+471,472,PXI Prime-XI,PXI,"$28,010",$0.001943,14414240,Low Vol,0.72%,-28.41%,-14.79%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+472,473,C2 Coin2.1,C2,"$27,138",$0.000271,"99,976,323 *",Low Vol,0.80%,-14.19%,-46.00%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+473,474,XPTX PlatinumBAR,XPTX,"$26,858",$0.170207,157798,Low Vol,0.03%,1.45%,23.17%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+474,475,IMX Impact,IMX,"$26,723",$0.000244,109300168,Low Vol,5.46%,-18.55%,-22.55%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+475,476,STV Sativacoin,STV,"$26,505",$0.003746,7075309,Low Vol,0.82%,-6.11%,33.24%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+476,477,ARCO AquariusCoin,ARCO,"$25,872",$0.021806,"1,186,468 *",Low Vol,0.69%,13.25%,11.31%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+477,478,XJO Joulecoin,XJO,"$25,454",$0.000799,31860048,Low Vol,-3.14%,16.92%,53.88%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+478,479,BUN BunnyCoin,BUN,"$23,292",$2.3e-07,101237844892,Low Vol,0.96%,35.69%,98.56%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+479,480,BTDX Bitcloud,BTDX,"$23,197",$0.002092,"11,090,285 *",Low Vol,0.82%,?,2.11%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+480,481,MANNA Manna,MANNA,"$22,957",$0.000559,"41,078,763 *",Low Vol,0.82%,-12.31%,-11.38%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+481,482,XCRE Creatio,XCRE,"$22,866",$0.001118,"20,457,766 *",Low Vol,0.77%,17.92%,215.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+482,483,HMP HempCoin,HMP,"$21,660",$0.000016,1356567638,Low Vol,0.77%,1.08%,-26.57%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+483,484,COXST CoExistCoin,COXST,"$20,365",$0.000750,"27,138,905 *",Low Vol,0.76%,5.06%,22.22%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+484,485,MRJA GanjaCoin,MRJA,"$20,340",$0.031414,"647,474 *",Low Vol,0.19%,86.40%,-7.49%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+485,486,CRX Chronos,CRX,"$20,300",$0.000275,73729962,Low Vol,0.54%,19.58%,10.21%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+486,487,ACP AnarchistsPrime,ACP,"$20,070",$0.004567,4394874,Low Vol,0.77%,124.53%,199.14%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+487,488,OCEAN BurstOcean,OCEAN,"$19,502",$0.092066,"211,827 *",Low Vol,-0.51%,-8.82%,22.33%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+488,489,URO Uro,URO,"$19,239",$0.015935,1207310,Low Vol,0.89%,1.10%,23.11%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+489,490,AGLC AgrolifeCoin,AGLC,"$18,993",$0.004646,"4,087,760 *",Low Vol,0.82%,?,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+490,491,UNIC UniCoin,UNIC,"$18,917",$0.006534,2895278,Low Vol,0.11%,3.54%,1.28%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+491,492,BOLI Bolivarcoin,BOLI,"$18,406",$0.002947,6246450,Low Vol,0.68%,16.95%,47.17%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+492,493,MST MustangCoin,MST,"$18,218",$0.029012,627952,Low Vol,0.82%,2.22%,33.95%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+493,494,BTQ BitQuark,BTQ,"$17,983",$0.002513,7155671,Low Vol,-0.20%,1.23%,10.07%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+494,495,VC VirtualCoin,VC,"$17,899",$0.001798,9957167,Low Vol,-0.38%,-63.27%,-65.96%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+495,496,BIOS BiosCrypto,BIOS,"$17,817",$0.000859,"20,737,003 *",Low Vol,0.77%,-10.10%,82.11%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+496,497,XCO X-Coin,XCO,"$17,600",$0.001421,"12,384,976 *",Low Vol,0.77%,23.24%,47.25%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+497,498,BOB Dobbscoin,BOB,"$17,591",$0.003476,5060382,Low Vol,0.75%,10.98%,35.93%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+498,499,POP PopularCoin,POP,"$17,323",$0.000005,3332000124,Low Vol,-0.58%,11.87%,37.45%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+499,500,CWXT CryptoWorldX ...,CWXT,"$17,190",$0.000319,"53,833,090 *",Low Vol,-3.98%,-3.74%,-20.21%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+500,501,CESC CryptoEscudo,CESC,"$15,844",$0.000110,144105100,Low Vol,-0.15%,1.23%,-7.11%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+501,502,PONZI PonziCoin,PONZI,"$15,839",$0.018394,861099,Low Vol,0.82%,-33.02%,-22.27%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+502,503,WMC WMCoin,WMC,"$15,645",$0.001357,"11,527,489 *",Low Vol,0.77%,-0.98%,-13.92%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+503,504,BUMBA BumbaCoin,BUMBA,"$15,498",$0.000709,21870724,Low Vol,0.77%,-0.37%,55.74%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+504,505,PX PX,PX,"$15,396",$0.000208,74171622,Low Vol,0.82%,?,56.80%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+505,506,CTO Crypto,CTO,"$15,396",$0.001603,"9,606,478 *",Low Vol,-0.05%,1.25%,-11.53%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+506,507,FIRE Firecoin,FIRE,"$15,351",$0.155983,"98,412 *",Low Vol,0.75%,?,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+507,508,PR Prototanium,PR,"$15,265",$0.078641,194113,Low Vol,0.69%,13.97%,23.94%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+508,509,URC Unrealcoin,URC,"$15,142",$0.002156,7024402,Low Vol,0.77%,-9.03%,15.95%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+509,510,LVPS LevoPlus,LVPS,"$14,964",$0.045506,328836,Low Vol,0.82%,-18.03%,-25.14%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+510,511,ISL IslaCoin,ISL,"$14,743",$0.009740,"1,513,704 *",Low Vol,0.77%,?,79.69%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+511,512,SCS SpeedCash,SCS,"$14,649",$0.071549,204743,Low Vol,0.82%,45.01%,10.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+512,513,SH Shilling,SH,"$14,040",$0.004810,"2,918,950 *",Low Vol,0.82%,-12.87%,891.39%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+513,514,TAJ TajCoin,TAJ,"$13,994",$0.002594,5395078,Low Vol,0.59%,-2.28%,25.32%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+514,515,FLVR FlavorCoin,FLVR,"$13,852",$0.000665,"20,817,446 *",Low Vol,0.75%,-11.86%,-1.24%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+515,516,SLING Sling,SLING,"$13,720",$0.012774,"1,074,095 *",Low Vol,0.82%,?,-14.69%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+516,517,MGM Magnum,MGM,"$13,700",$0.003832,3575090,Low Vol,0.82%,?,-23.46%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+517,518,ZUR Zurcoin,ZUR,"$13,667",$0.000176,77813253,Low Vol,0.82%,-7.34%,9.23%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+518,519,NYC NewYorkCoin,NYC,"$13,592",$2.3e-07,59719935819,Low Vol,2.02%,-98.56%,-76.18%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+519,520,ARB ARbit,ARB,"$13,355",$0.002124,6288785,Low Vol,0.82%,1.08%,18.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+520,521,LUNA Luna Coin,LUNA,"$13,165",$0.010734,1226531,Low Vol,0.82%,-11.66%,1.95%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+521,522,PHO Photon,PHO,"$13,154",$0.000002,8762016619,Low Vol,0.50%,76.07%,187.87%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+522,523,ARI Aricoin,ARI,"$13,131",$0.000094,140262505,Low Vol,0.51%,18.54%,74.94%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+523,524,ZNY Bitzeny,ZNY,"$13,069",$0.000173,75614500,Low Vol,-0.09%,1.26%,31.18%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+524,525,888 OctoCoin,888,"$12,956",$0.000273,47486389,Low Vol,0.47%,-32.58%,-48.60%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+525,526,RPC RonPaulCoin,RPC,"$12,935",$0.016782,770791,Low Vol,0.89%,4.46%,19.54%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+526,527,ORLY Orlycoin,ORLY,"$12,873",$0.000351,36646779,Low Vol,0.82%,?,11.55%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+527,528,HAL Halcyon,HAL,"$12,810",$0.002810,4558225,Low Vol,0.17%,1.66%,5.15%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+528,529,GCC GuccioneCoin,GCC,"$12,632",$0.000623,"20,285,537 *",Low Vol,0.77%,8.61%,15.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+529,530,ANTI AntiBitcoin,ANTI,"$12,549",$0.000719,17465159,Low Vol,0.82%,10.94%,-63.59%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+530,531,KLC KiloCoin,KLC,"$12,537",$0.000064,196297971,Low Vol,0.82%,-82.42%,-72.12%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+531,532,TGC Tigercoin,TGC,"$12,513",$0.000287,43536800,Low Vol,0.82%,-4.23%,36.39%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+532,533,VPRC VapersCoin,VPRC,"$12,456",$0.000016,780124964,Low Vol,0.82%,1.14%,19.44%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+533,534,NEWB Newbium,NEWB,"$12,067",$0.000503,"24,000,000 *",Low Vol,-0.05%,1.25%,-55.36%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+534,535,SONG SongCoin,SONG,"$12,057",$0.000370,32565300,Low Vol,0.75%,-10.15%,6.73%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+535,536,KB3 B3Coin,KB3,"$11,940",$0.040056,298088,Low Vol,0.73%,1.34%,-21.30%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+536,537,EUC Eurocoin,EUC,"$11,889",$0.001025,11597350,Low Vol,-0.37%,-12.33%,37.14%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+537,538,SFC Solarflarecoin,SFC,"$11,707",$0.001277,9167000,Low Vol,0.82%,0.92%,-13.97%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+538,539,SCRT SecretCoin,SCRT,"$11,546",$0.002730,"4,228,672 *",Low Vol,0.77%,?,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+539,540,FLAX Flaxscript,FLAX,"$11,543",$0.002108,5476538,Low Vol,-6.33%,1.06%,22.68%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+540,541,DUO ParallelCoin,DUO,"$11,419",$0.039726,287447,Low Vol,0.82%,9.76%,5.09%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+541,542,AUM Alexium,AUM,"$11,398",$0.000562,"20,297,336 *",Low Vol,-0.22%,1.41%,22.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+542,543,DLISK DAPPSTER,DLISK,"$11,177",$0.000112,"100,000,000 *",Low Vol,0.82%,41.52%,66.29%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+543,544,NLX Nullex,NLX,"$11,157",$0.000276,40477042,Low Vol,-3.99%,-9.77%,-16.78%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+544,545,$$$ Money,$$$,"$11,084",$0.000242,45887218,Low Vol,-0.18%,17.99%,49.20%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+545,546,VIP VIP Tokens,VIP,"$10,660",$0.000128,"83,450,403 *",Low Vol,0.82%,35.11%,59.86%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+546,547,GBT GameBet Coin,GBT,"$10,521",$0.000495,"21,256,402 *",Low Vol,0.77%,7.86%,36.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+547,548,PIE PIECoin,PIE,"$10,155",$0.000141,"71,810,929 *",Low Vol,-0.05%,0.67%,8.85%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+548,549,PLNC PLNcoin,PLNC,"$9,551",$0.000559,17089600,Low Vol,0.86%,1.09%,29.62%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+549,550,BSTAR Blackstar,BSTAR,"$9,527",$0.000016,"596,645,532 *",Low Vol,0.82%,-4.12%,18.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+550,551,BLZ BlazeCoin,BLZ,"$9,359",$0.000015,608557394,Low Vol,1.54%,-6.07%,27.37%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+551,552,SPT Spots,SPT,"$9,302",$0.000415,22406021,Low Vol,0.82%,2.27%,5.27%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+552,553,CAB Cabbage,CAB,"$9,221",$0.000878,"10,499,996 *",Low Vol,0.82%,4.89%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+553,554,STEPS Steps,STEPS,"$9,219",$0.000495,"18,625,017 *",Low Vol,0.82%,?,46.06%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+554,555,LEA LeaCoin,LEA,"$9,059",$0.000039,"231,448,800 *",Low Vol,0.64%,23.88%,45.21%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+555,556,LIR LetItRide,LIR,"$8,978",$0.000255,"35,143,286 *",Low Vol,0.82%,15.52%,26.68%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+556,557,ABN Abncoin,ABN,"$8,898",$0.131427,67700,Low Vol,0.82%,-38.37%,-0.95%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+557,558,EBT Ebittree Coin,EBT,"$8,400",$0.010506,799550,Low Vol,0.82%,1.99%,-4.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+558,559,WARP WARP,WARP,"$8,219",$0.007505,"1,095,224 *",Low Vol,0.82%,-38.06%,-27.11%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+559,560,MND MindCoin,MND,"$8,214",$0.000655,12546625,Low Vol,0.77%,-2.21%,-0.75%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+560,561,LTCR Litecred,LTCR,"$8,205",$0.000271,30227750,Low Vol,0.82%,24.48%,46.22%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+561,562,ICON Iconic,ICON,"$8,075",$0.013620,"592,894 *",Low Vol,0.82%,38.90%,12.42%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+562,563,RIDE Ride My Car,RIDE,"$8,066",$0.000080,"101,035,517 *",Low Vol,-36.99%,1.08%,7.87%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+563,564,EGO EGO,EGO,"$7,664",$0.000128,"60,000,001 *",Low Vol,0.82%,15.52%,26.94%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+564,565,HMC Hommalicoin,HMC,"$7,652",$3.20,"2,394 *",Low Vol,40.53%,78.87%,-9.35%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+565,566,IMPS ImpulseCoin,IMPS,"$7,112",$0.000351,20245510,Low Vol,0.82%,-0.51%,136.96%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+566,567,HVCO High Voltage,HVCO,"$6,990",$0.004678,"1,494,171 *",Low Vol,0.82%,18.47%,42.84%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+567,568,CMT Comet,CMT,"$6,964",$0.007978,872830,Low Vol,0.82%,3.11%,22.20%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+568,569,G3N G3N,G3N,"$6,641",$0.000878,7561891,Low Vol,0.73%,4.89%,22.95%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+569,570,XBTC21 Bitcoin 21,XBTC21,"$6,433",$0.008111,"793,108 *",Low Vol,0.82%,7.20%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+570,571,OS76 OsmiumCoin,OS76,"$6,338",$0.007089,894026,Low Vol,0.82%,?,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+571,572,PRX Printerium,PRX,"$5,941",$0.000655,9074428,Low Vol,0.77%,33.62%,12.16%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+572,573,FUZZ FuzzBalls,FUZZ,"$5,938",$0.001229,4829945,Low Vol,0.77%,-6.69%,9.91%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+573,574,BSC BowsCoin,BSC,"$5,760",$0.001038,5550102,Low Vol,-2.19%,-10.00%,-8.67%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+574,575,IBANK iBank,IBANK,"$5,710",$0.001261,4526324,Low Vol,0.82%,?,12.77%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+575,576,TAGR TAGRcoin,TAGR,"$5,557",$0.000144,"38,669,634 *",Low Vol,0.82%,?,52.33%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+576,577,FDC Future Digita...,FDC,"$5,521",$0.002395,2305051,Low Vol,0.82%,25.30%,-42.69%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+577,578,XOC Xonecoin,XOC,"$5,439",$0.012949,"420,000 *",Low Vol,0.82%,?,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+578,579,BXT BitTokens,BXT,"$5,251",$0.011177,469845,Low Vol,0.82%,?,15.61%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+579,580,MTLMC3 Metal Music Coin,MTLMC3,"$5,092",$0.000064,79719140,Low Vol,0.77%,1.08%,33.11%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+580,581,DPAY DPAY,DPAY,"$5,080",$0.000064,79541001,Low Vol,0.77%,102.16%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+581,582,JOBS JobsCoin,JOBS,"$5,078",$0.000048,106019270,Low Vol,0.82%,-24.19%,18.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+582,583,PEX PosEx,PEX,"$4,936",$0.002012,2453240,Low Vol,0.82%,-7.03%,18.86%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+583,584,HIRO Hirocoin,HIRO,"$4,921",$0.000016,308179289,Low Vol,0.82%,1.09%,-41.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+584,585,SCORE Scorecoin,SCORE,"$4,791",$0.000303,15791009,Low Vol,-2.60%,-8.55%,-16.41%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+585,586,ALTC Antilitecoin,ALTC,"$4,025",$0.000128,31512613,Low Vol,0.77%,?,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+586,587,SDP SydPak,SDP,"$3,920",$0.024749,"158,393 *",Low Vol,0.77%,?,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+587,588,MEOW Kittehcoin,MEOW,"$3,711",$1.6e-07,23905669976,Low Vol,0.71%,-10.34%,-30.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+588,589,ZNE Zonecoin,ZNE,"$3,710",$0.001437,2581970,Low Vol,0.82%,?,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+589,590,ASAFE AllSafe,ASAFE,"$3,387",$0.000005,"710,000,000 *",Low Vol,-2.75%,126.51%,2265.79%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+590,591,XRC Rawcoin,XRC,"$2,926",$0.004151,704882,Low Vol,0.05%,-19.14%,-21.84%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+591,592,CF Californium,CF,"$2,771",$0.024941,111110,Low Vol,0.82%,-17.03%,-13.34%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+592,593,CONX Concoin,CONX,"$2,634",$0.004391,599882,Low Vol,0.82%,-11.64%,4.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+593,594,BIOB BioBar,BIOB,"$2,503",$0.002826,"885,756 *",Low Vol,1.26%,1.88%,-36.10%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+594,595,SANDG Save and Gain,SANDG,"$2,447",$0.000798,3064800,Low Vol,0.73%,32.99%,36.93%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+595,596,CASH Cashcoin,CASH,"$2,288",$0.000064,35831128,Low Vol,0.82%,1.09%,58.01%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+596,597,NODC NodeCoin,NODC,"$2,144",$0.001277,1678439,Low Vol,0.82%,7.82%,43.66%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+597,598,CXT Coinonat,CXT,"$2,013",$0.001462,1377201,Low Vol,1.27%,-33.88%,-55.43%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+598,599,ARGUS Argus,ARGUS,"$1,980",$0.001724,1148324,Low Vol,-8.04%,98.48%,45.51%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+599,600,GEERT GeertCoin,GEERT,"$1,812",$0.000383,4733639,Low Vol,0.82%,-6.80%,-24.24%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+600,601,IMPCH Impeachcoin,IMPCH,"$1,594",$0.005173,"308,179 *",Low Vol,0.82%,17.08%,27.06%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+601,602,1CR 1CRedit,1CR,"$1,578",$0.017883,88213,Low Vol,0.82%,61.03%,18.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+602,603,XNG Enigma [XNG],XNG,"$1,385",$0.083300,16627,Low Vol,0.77%,114.36%,-20.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+603,604,P7C P7Coin,P7C,"$1,125",$0.000032,35220238,Low Vol,0.82%,102.16%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+604,605,PWR PWR Coin,PWR,$798,$0.000016,49983870,Low Vol,0.82%,1.08%,18.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+605,606,ZHS Zcashshare,ZHS,$767,$0.000271,2826000,Low Vol,0.82%,-9.56%,-19.17%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+606,607,DOLLAR Dollar Online,DOLLAR,$697,$0.007888,88379,Low Vol,0.82%,1.90%,-7.31%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+607,608,BOAT BOAT,BOAT,$474,$0.000134,3547845,Low Vol,0.87%,-1.73%,-47.40%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+608,609,DGCS Digital Credits,DGCS,$279,$0.000048,5826388,Low Vol,0.82%,-24.18%,-17.66%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+609,610,CRT CRTCoin,CRT,$253,$0.003193,79270,Low Vol,0.89%,1.10%,18.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+610,611,XEN Xenixcoin,XEN,$137,$0.013572,10100,Low Vol,-26.70%,-52.11%,-83.20%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+611,612,CSH Cashout,CSH,$97,$0.000016,6179600,Low Vol,-0.05%,1.25%,19.26%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+612,613,TOKEN SwapToken,TOKEN,$60,$0.000002,"35,110,531 *",Low Vol,0.47%,-89.11%,994.28%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+613,614,WGC World Gold Coin,WGC,$49,$0.000016,3102200,Low Vol,-0.09%,1.25%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+614,615,MUG MikeTheMug,MUG,$2,$0.000002,"999,279 *",Low Vol,-0.51%,-5.16%,80.81%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+615,616,CHAO 23 Skidoo,CHAO,?,$6389.37,?,"$2,633",0.75%,0.09%,22.29%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+616,617,AMIS AMIS,AMIS,?,$762.43,? *,Low Vol,2.27%,4.37%,355.21%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+617,618,XOT Internet of T...,XOT,?,$517.38,? *,$895,-0.05%,1.24%,39.91%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+618,619,BTU Bitcoin Unlim...,BTU,?,$61.31,?,Low Vol,0.56%,12.71%,-20.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+619,620,ACCI NxttyACCI,ACCI,?,$25.00,? *,Low Vol,-7.89%,6.63%,73.66%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+620,621,MALC Malcoin,MALC,?,$20.00,? *,"$36,105",-0.01%,1.25%,16.51%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+621,622,GUC GoldUnionCoin,GUC,?,$13.98,? *,"$13,502",-0.09%,1.25%,14.73%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+622,623,FRGC Fargocoin,FRGC,?,$7.15,?,"$464,720",0.00%,0.27%,5.51%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+623,624,ECN E-coin,ECN,?,$4.48,?,$549,0.82%,2.44%,17.46%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+624,625,BTX Bitcore,BTX,?,$3.19,?,"$7,502",-0.06%,14.97%,86.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+625,626,IOP Internet of P...,IOP,?,$2.44,?,"$7,743",-0.48%,-12.30%,-42.24%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+626,627,PLU Pluton,PLU,?,$2.36,? *,"$91,054",3.18%,12.89%,15.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+627,628,ALT Altcoin,ALT,?,$2.25,? *,"$3,238",-0.02%,0.58%,103.14%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+628,629,XDE2 XDE II,XDE2,?,$2.16,? *,$615,0.81%,-0.76%,278.60%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+629,630,FRST FirstCoin,FRST,?,$1.26,?,"$35,343",0.80%,0.32%,13.12%,Add to Watchlist  Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+630,631,DCT DECENT,DCT,?,$1.15,? *,"$1,111",0.82%,33.84%,215.37%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+631,632,TESLA TeslaCoilCoin,TESLA,?,$1.12,? *,Low Vol,-0.01%,1.25%,-38.92%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+632,633,TKN Monolith,TKN,?,$1.04,? *,"$416,619",1.81%,?,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+633,634,TAAS TaaS,TAAS,?,$0.852483,? *,"$89,623",3.51%,-3.60%,-23.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+634,635,YOG Yogold,YOG,?,$0.774468,? *,"$6,868",0.16%,-45.65%,7.69%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+635,636,DMC DynamicCoin,DMC,?,$0.745200,?,"$257,063",-0.05%,-0.63%,49.06%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+636,637,BTG Bitgem,BTG,?,$0.731504,?,Low Vol,-22.59%,-8.64%,-35.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets  View Historical Data
+637,638,THS TechShares,THS,?,$0.688182,? *,"$10,372",0.77%,-9.63%,-5.37%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+638,639,DTB Databits,DTB,?,$0.464645,? *,"$77,946",-0.98%,-11.51%,2.58%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+639,640,ZBC Zilbercoin,ZBC,?,$0.439288,? *,"$161,048",-4.37%,-23.40%,-16.69%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+640,641,LEO LEOcoin,LEO,?,$0.399860,? *,"$118,770",0.33%,4.89%,-7.47%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+641,642,CLUB ClubCoin,CLUB,?,$0.311006,? *,"$56,129",3.62%,4.59%,2.86%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+642,643,TROPTIONS TROPTIONS,TROPTIONS,?,$0.259949,? *,Low Vol,-3.22%,15.71%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+643,644,FAZZ Fazzcoin,FAZZ,?,$0.247022,? *,"$2,346",0.82%,-9.35%,-69.72%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+644,645,PROUD PROUD Money,PROUD,?,$0.225839,?,Low Vol,0.82%,-1.40%,10.54%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+645,646,XBG BTCGold,XBG,?,$0.172834,?,"$3,265",-0.05%,-0.17%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+646,647,EB3 EB3 Coin,EB3,?,$0.165151,?,"$11,591",-0.05%,1.25%,-5.95%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+647,648,WA WA Space,WA,?,$0.145322,?,"$34,395",-0.09%,0.81%,12.42%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+648,649,APC AlpaCoin,APC,?,$0.138330,?,Low Vol,-0.09%,-4.05%,10.55%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+649,650,PCS Pabyosi Coin ...,PCS,?,$0.128615,?,"$6,848",0.77%,-9.55%,-19.00%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+650,651,DIBC DIBCOIN,DIBC,?,$0.119753,? *,Low Vol,0.82%,-7.55%,1.01%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+651,652,WGO WavesGo,WGO,?,$0.116808,? *,"$6,848",-2.99%,14.20%,-0.89%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+652,653,DEUS DeusCoin,DEUS,?,$0.114715,?,"$4,701",-0.01%,-0.67%,-37.59%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+653,654,TLE Tattoocoin (L...,TLE,?,$0.112188,? *,Low Vol,0.82%,61.24%,-57.99%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+654,655,GBG Golos Gold,GBG,?,$0.107251,? *,"$1,047",0.82%,-0.65%,23.62%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+655,656,WEC Wowecoin,WEC,?,$0.102322,? *,"$10,386",0.00%,-1.61%,-9.32%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+656,657,IVZ InvisibleCoin,IVZ,?,$0.097208,? *,Low Vol,0.77%,54.51%,21.56%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+657,658,AXF AxFunds,AXF,?,$0.077616,?,Low Vol,0.04%,-5.43%,-16.94%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+658,659,DTF Digitalfund,DTF,?,$0.055047,?,"$10,935",1.72%,-1.66%,15.71%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+659,660,OMC Omicron,OMC,?,$0.036261,? *,Low Vol,0.82%,1.08%,9.96%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+660,661,LEC  LeCoin,LEC,?,$0.036157,? *,Low Vol,7.00%,7.46%,50.43%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+661,662,BUK  CryptoBuck,BUK,?,$0.034547,?,Low Vol,-0.93%,-17.22%,11.99%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+662,663,EDRC EDRCoin,EDRC,?,$0.026753,? *,$709,0.58%,-13.25%,-30.30%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+663,664,ELC Elacoin,ELC,?,$0.025546,?,"$2,489",0.85%,2.90%,7.62%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+664,665,GARY President Joh...,GARY,?,$0.020174,? *,Low Vol,-0.09%,1.27%,-4.57%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+665,666,RHFC RHFCoin,RHFC,?,$0.019405,? *,"$3,026",-0.01%,2.51%,-5.30%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+666,667,DCRE DeltaCredits,DCRE,?,$0.019192,? *,Low Vol,0.77%,?,27.42%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+667,668,ACN Avoncoin,ACN,?,$0.017037,? *,"$2,999",0.82%,2.23%,-36.56%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+668,669,MG Mind Gene,MG,?,$0.016925,?,"$13,648",-7.87%,-10.48%,-27.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+669,670,SOAR Soarcoin,SOAR,?,$0.016191,? *,Low Vol,0.82%,-3.47%,1.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+670,671,LDCN LandCoin,LDCN,?,$0.016127,? *,Low Vol,0.82%,-29.38%,-34.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+671,672,TYC Tyrocoin,TYC,?,$0.015967,?,Low Vol,0.82%,-82.42%,-94.74%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+672,673,HLB Lepaoquan,HLB,?,$0.014399,? *,"$674,924",6.86%,-4.95%,9.80%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+673,674,IEC IvugeoCoin,IEC,?,$0.012917,? *,"$3,108",0.82%,5.47%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+674,675,XID International...,XID,?,$0.011973,?,Low Vol,-0.09%,1.25%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+675,676,GBC GBCGoldCoin,GBC,?,$0.009700,?,Low Vol,0.00%,-2.02%,-6.87%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+676,677,SHELL ShellPay,SHELL,?,$0.008692,? *,"$4,917",-2.17%,12.41%,31.91%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+677,678,DASHS Dashs,DASHS,?,$0.007010,?,Low Vol,-7.79%,12.27%,-28.56%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+678,679,BIT First Bitcoin,BIT,?,$0.006515,?,Low Vol,2.83%,9.67%,1.29%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+679,680,UTA UtaCoin,UTA,?,$0.006238,? *,Low Vol,-0.05%,1.25%,-68.01%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+680,681,SAK Sharkcoin,SAK,?,$0.005341,?,Low Vol,3.59%,-21.00%,54.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+681,682,AIB Advanced Inte...,AIB,?,$0.005301,?,Low Vol,0.73%,584.86%,555.60%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+682,683,KED Darsek,KED,?,$0.005030,?,"$1,247",0.82%,13.88%,108.35%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+683,684,XGR GoldReserve,XGR,?,$0.003992,?,"$3,048",0.80%,13.98%,129.36%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+684,685,PSY Psilocybin,PSY,?,$0.003787,?,Low Vol,-0.37%,-11.48%,16.41%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+685,686,OPAL Opal,OPAL,?,$0.003745,? *,$706,0.80%,-2.16%,-12.43%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+686,687,PRES President Trump,PRES,?,$0.003513,? *,Low Vol,0.82%,7.68%,5.16%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+687,688,HNC Helleniccoin,HNC,?,$0.003225,?,Low Vol,0.77%,-0.88%,-0.28%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+688,689,BTCS Bitcoin Scrypt,BTCS,?,$0.003193,?,$558,0.89%,0.47%,13.56%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+689,690,XAU Xaucoin,XAU,?,$0.003126,?,Low Vol,-0.39%,-0.08%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+690,691,RYCN RoyalCoin 2,RYCN,?,$0.003064,? *,Low Vol,-0.09%,1.25%,-0.95%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+691,692,EGG EggCoin,EGG,?,$0.003001,? *,Low Vol,-0.13%,0.22%,-3.35%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+692,693,ZSE ZSEcoin,ZSE,?,$0.002828,?,Low Vol,0.82%,17.97%,-89.34%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+693,694,BGC BagCoin,BGC,?,$0.002690,?,"$34,204",1.71%,0.85%,-6.86%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+694,695,BCF Bitcoin Fast,BCF,?,$0.002687,?,Low Vol,0.74%,36.12%,87.20%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+695,696,CNC CHNCoin,CNC,?,$0.002434,?,"$9,197",2.78%,8.44%,16.24%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+696,697,VGINA VGINA,VGINA,?,$0.002426,?,Low Vol,-13.02%,368.47%,-30.81%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+697,698,NBIT netBit,NBIT,?,$0.002347,? *,Low Vol,0.82%,?,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+698,699,UTC UltraCoin,UTC,?,$0.002203,?,$949,0.82%,-0.33%,-13.13%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+699,700,MAVRO Mavro,MAVRO,?,$0.002140,?,Low Vol,0.82%,-0.05%,-3.89%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+700,701,NTCC Neptune Classic,NTCC,?,$0.002137,?,Low Vol,-0.09%,1.25%,-9.32%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+701,702,AV AvatarCoin,AV,?,$0.002108,? *,Low Vol,0.82%,?,18.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+702,703,GML GameLeagueCoin,GML,?,$0.001860,? *,Low Vol,0.05%,17.97%,41.73%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+703,704,TRICK TrickyCoin,TRICK,?,$0.001756,?,Low Vol,0.82%,-2.05%,-10.65%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+704,705,TODAY TodayCoin,TODAY,?,$0.001740,?,Low Vol,0.82%,3.94%,302.42%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+705,706,CLINT Clinton,CLINT,?,$0.001724,? *,Low Vol,0.82%,-9.02%,7.35%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+706,707,BEST BestChain,BEST,?,$0.001588,?,Low Vol,0.78%,10.91%,5.51%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+707,708,UR UR,UR,?,$0.001458,?,Low Vol,-0.64%,14.31%,4.18%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+708,709,OCOW OCOW,OCOW,?,$0.001453,?,Low Vol,0.82%,-23.35%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+709,710,XQN Quotient,XQN,?,$0.001389,? *,Low Vol,0.82%,15.71%,1.06%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+710,711,N8V NativeCoin,N8V,?,$0.001341,?,"$6,225",0.84%,12.68%,62.33%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+711,712,TERA TeraCoin,TERA,?,$0.001304,?,"$8,903",-0.05%,-9.83%,-33.46%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+712,713,CBD CBD Crystals,CBD,?,$0.001253,? *,Low Vol,0.82%,293.84%,-25.88%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+713,714,MOTO Motocoin,MOTO,?,$0.001246,?,$909,0.81%,-6.08%,69.91%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+714,715,CTL Citadel,CTL,?,$0.001134,?,Low Vol,-12.88%,-14.93%,-4.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+715,716,METAL MetalCoin,METAL,?,$0.001070,? *,Low Vol,0.82%,?,17.26%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+716,717,SOON SoonCoin,SOON,?,$0.001038,? *,Low Vol,1.21%,2.47%,-1.29%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+717,718,ROYAL RoyalCoin,ROYAL,?,$0.000958,?,Low Vol,0.82%,24.96%,5.72%,Add to Watchlist Remove from Watchlist  Watchlist full! View Chart View Markets View Historical Data
+718,719,DBG Digital Bulli...,DBG,?,$0.000878,? *,Low Vol,0.82%,1.08%,91.66%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+719,720,BURN President San...,BURN,?,$0.000864,? *,Low Vol,-0.09%,1.25%,-14.22%,Add to Watchlist  Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+720,721,ABC Alphabit,ABC,?,$0.000786,? *,Low Vol,-0.05%,1.25%,-29.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+721,722,BLAZR BlazerCoin,BLAZR,?,$0.000655,?,Low Vol,0.82%,1.78%,-57.86%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+722,723,TIC True Investme...,TIC,?,$0.000639,? *,Low Vol,0.82%,1.08%,?,Add to Watchlist  Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+723,724,RUBIT RubleBit,RUBIT,?,$0.000575,?,Low Vol,0.77%,1.08%,3.80%,Add to Watchlist  Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+724,725,RBX Ripto Bux,RBX,?,$0.000547,? *,Low Vol,-4.86%,6.06%,-12.62%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+725,726,SKC Skeincoin,SKC,?,$0.000511,?,Low Vol,0.89%,?,?,Add to Watchlist Remove from Watchlist Watchlist full!  View Chart View Markets View Historical Data
+726,727,TCOIN T-coin,TCOIN,?,$0.000503,?,"$8,558",-0.09%,1.96%,-19.85%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+727,728,BAC BitAlphaCoin,BAC,?,$0.000495,?,Low Vol,0.82%,1.08%,86.04%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+728,729,MMXVI MMXVI,MMXVI,?,$0.000479,?,Low Vol,0.77%,-13.36%,-19.53%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+729,730,BRAIN Braincoin,BRAIN,?,$0.000463,? *,Low Vol,0.82%,4.69%,-41.14%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart  View Markets View Historical Data
+730,731,FRWC FrankyWillCoin,FRWC,?,$0.000463,?,Low Vol,0.77%,15.88%,9.92%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+731,732,LAZ Lazaruscoin,LAZ,?,$0.000463,? *,Low Vol,0.82%,?,85.15%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+732,733,QBC Quebecoin,QBC,?,$0.000447,?,Low Vol,0.85%,1.10%,24.33%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+733,734,SPORT SportsCoin,SPORT,?,$0.000431,? *,Low Vol,0.82%,?,27.96%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+734,735,OLV OldV,OLV,?,$0.000419,?,Low Vol,-0.33%,5.59%,-38.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+735,736,QBT Cubits,QBT,?,$0.000404,?,Low Vol,-0.04%,6.13%,7.28%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+736,737,GMB Gambleo,GMB,?,$0.000362,? *,Low Vol,-0.08%,-12.86%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+737,738,KASHH KashhCoin,KASHH,?,$0.000314,? *,"$11,764",-2.19%,-32.63%,-73.65%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+738,739,PRM PrismChain,PRM,?,$0.000271,? *,Low Vol,0.77%,22.74%,43.87%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+739,740,MARX MarxCoin,MARX,?,$0.000255,?,"$2,489",-3.21%,-23.00%,-45.09%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+740,741,SKR Sakuracoin,SKR,?,$0.000217,?,Low Vol,0.09%,-7.16%,18.91%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+741,742,XVE The Vegan Ini...,XVE,?,$0.000205,? *,Low Vol,60.80%,18.77%,2.50%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+742,743,ASC AsicCoin,ASC,?,$0.000197,?,Low Vol,1.02%,?,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+743,744,DISK DarkLisk,DISK,?,$0.000192,?,Low Vol,0.82%,?,1.56%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+744,745,HCC Happy Creator...,HCC,?,$0.000160,? *,Low Vol,0.82%,3.88%,16.58%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+745,746,CYC Cycling Coin,CYC,?,$0.000144,? *,Low Vol,0.77%,13.71%,33.29%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+746,747,MONETA Moneta,MONETA,?,$0.000128,?,Low Vol,0.77%,15.52%,-14.82%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+747,748,GMX GoldMaxCoin,GMX,?,$0.000126,? *,Low Vol,-0.09%,1.25%,-10.79%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+748,749,MBL MobileCash,MBL,?,$0.000094,?,Low Vol,-0.05%,1.25%,2.22%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+749,750,TCR TheCreed,TCR,?,$0.000078,?,Low Vol,-0.29%,-0.03%,47.93%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+750,751,LEPEN LePen,LEPEN,?,$0.000065,? *,"$16,489",-2.96%,-54.35%,-65.62%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+751,752,PDG  PinkDog,PDG,?,$0.000064,?,Low Vol,0.82%,-7.11%,21.92%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+752,753,LKC  LinkedCoin,LKC,?,$0.000048,?,Low Vol,0.82%,0.99%,18.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+753,754,POKE PokeCoin,POKE,?,$0.000048,?,Low Vol,202.45%,51.62%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+754,755,DVC Devcoin,DVC,?,$0.000045,?,Low Vol,0.63%,6.52%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+755,756,VGC VegasCoin,VGC,?,$0.000041,?,Low Vol,106.56%,30.76%,52.16%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+756,757,UNC UNCoin,UNC,?,$0.000032,? *,Low Vol,0.77%,1.08%,16.85%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+757,758,PAYP PayPeer,PAYP,?,$0.000032,?,Low Vol,0.77%,1.02%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+758,759,TEAM TeamUp,TEAM,?,$0.000032,? *,Low Vol,0.82%,-32.61%,-21.01%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+759,760,WOW Wowcoin,WOW,?,$0.000032,?,Low Vol,0.77%,1.08%,-21.01%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+760,761,MONEY MoneyCoin,MONEY,?,$0.000032,?,Low Vol,0.82%,-32.61%,18.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+761,762,HILL President Cli...,HILL,?,$0.000031,? *,Low Vol,-0.05%,1.25%,138.52%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+762,763,GBRC Global Busine...,GBRC,?,$0.000031,?,Low Vol,-0.05%,1.25%,36.68%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+763,764,FEDS FedoraShare,FEDS,?,$0.000029,? *,"$1,536",0.00%,-8.19%,-23.78%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+764,765,IFLT InflationCoin,IFLT,?,$0.000026,? *,$742,0.15%,45.53%,5.88%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+765,766,FFC FireFlyCoin,FFC,?,$0.000016,?,Low Vol,0.73%,1.08%,-19.03%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+766,767,CC CyberCoin,CC,?,$0.000016,? *,Low Vol,0.77%,1.08%,-40.76%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+767,768,CME Cashme,CME,?,$0.000016,?,Low Vol,0.77%,1.08%,-40.76%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+768,769,X2 X2,X2,?,$0.000016,? *,Low Vol,0.82%,1.08%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+769,770,VAL Valorbit,VAL,?,$0.000016,?,Low Vol,0.77%,1.08%,18.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+770,771,SOUL SoulCoin,SOUL,?,$0.000016,?,Low Vol,0.77%,1.08%,18.41%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+771,772,TELL Tellurion,TELL,?,$0.000016,?,Low Vol,0.82%,1.08%,?,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+772,773,RCN Rcoin,RCN,?,$0.000016,?,Low Vol,0.82%,?,18.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+773,774,XSTC Safe Trade Coin,XSTC,?,$0.000016,? *,Low Vol,-0.02%,1.72%,-39.97%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+774,775,ACES Aces,ACES,?,$0.000016,? *,Low Vol,0.30%,1.48%,19.71%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+775,776,VTY Victoriouscoin,VTY,?,$0.000005,?,Low Vol,25.09%,-7.54%,-24.24%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+776,777,YES Yescoin,YES,?,$0.000004,?,Low Vol,1.01%,111.82%,-67.83%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+777,778,DIME Dimecoin,DIME,?,$0.000002,?,Low Vol,3.24%,70.80%,299.48%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+778,779,NBE BitCentavo,NBE,?,$2.9e-07,?,Low Vol,0.55%,9.02%,512.00%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+779,780,VTA Virtacoin,VTA,?,$2e-07,?,Low Vol,5.13%,-98.77%,-98.36%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+780,781,XP Experience Po...,XP,?,$4.7e-08,?,Low Vol,-1.07%,5.19%,-94.98%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
+781,782,PAC PAC Global,PAC,?,$1.7e-08,?,Low Vol,-1.00%,14.50%,80.91%,Add to Watchlist Remove from Watchlist Watchlist full! View Chart View Markets View Historical Data
