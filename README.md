@@ -1,4 +1,4 @@
-# swiss-borg-competitive-analysis
+# swissborg-tech-challenge
 
 Analysis conducted for the tech challenge
 
