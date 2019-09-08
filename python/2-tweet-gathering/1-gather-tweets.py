@@ -130,5 +130,5 @@ if __name__ == '__main__':
         else:
             formatted_response.to_csv(f'./data/1-raw-tweets/twitter_data_{ts}.csv', mode='a', header=False, encoding='utf-8')
             
-    print("Tweet gathered and saved under 1-raw-tweets/twitter_data_{ts}.csv")
+    print(f"Tweet gathered and saved under 1-raw-tweets/twitter_data_{ts}.csv")
     print("Should wait at least half a day until re-run")

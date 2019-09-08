@@ -85,29 +85,29 @@ print(df_tweets.describe())
 ### GROUP BY CRYPTOCURRENCIES
 
 # We groupy by Crypto and do the mean. The only relevant variable here is the mean of the sentiment
-sentiment_by_companies = df_tweets.groupby('Crypto').mean()
-classification_score_by_companies = []
+sentiment_by_crypto = df_tweets.groupby('Crypto').mean()
+classification_score_by_crypto = []
 
-# We test the score and regarding its results and a sensivity measure we assign neutral positive or negative for each companies.
-for idx, row in sentiment_by_companies.iterrows():
+# We test the score and regarding its results and a sensivity measure we assign neutral positive or negative for each crypto.
+for idx, row in sentiment_by_crypto.iterrows():
     if row['sentiment'] > sensivity:
-        classification_score_by_companies.append("pos")
+        classification_score_by_crypto.append("pos")
     elif row['sentiment'] < -sensivity:
-        classification_score_by_companies.append("neg")
+        classification_score_by_crypto.append("neg")
     else:
-        classification_score_by_companies.append("neu")
+        classification_score_by_crypto.append("neu")
 
 # We assign to the dataframe
-sentiment_by_companies['classification'] = classification_score_by_companies
+sentiment_by_crypto['classification'] = classification_score_by_crypto
 
-print(sentiment_by_companies.sample(5))
+print(sentiment_by_crypto.sample(5))
 
 # We save our datasets into csv files
 df_tweets.to_csv("./data/3-sentiment/sentiment_by_tweets.csv")
-sentiment_by_companies.to_csv("./data/3-sentiment/sentiment_by_companies.csv")
+sentiment_by_crypto.to_csv("./data/3-sentiment/sentiment_by_crypto.csv")
 
 # We plot to have so visual representation of what's going on.
-ax = df_tweets.groupby(['Crypto', 'classification_score']).size().unstack().plot(kind='bar',figsize=(20, 10))
+ax = df_tweets.groupby(['Crypto', 'classification_score']).size().unstack().plot(kind='bar',figsize=(10, 5))
 fig = ax.get_figure()
 ax.set_title("Categorical polarity distribution by crypto")
 ax.set_xlabel("Crypto")

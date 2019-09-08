@@ -54,8 +54,8 @@ df_files['is_swissborg_in'] = is_swissborg_in
 df_files.sort_index(inplace=True)
 
 # We add swissborg introduction as a vertical timestamp line
-CHSB introduction = df_files[df_files['is_swissborg_in'] == True].head(1).index.values[0]
-
+CHSB_introduction = df_files[df_files['is_swissborg_in'] == True].head(1).index.values[0]
+print(f"CHSB introduction : {CHSB_introduction}")
 
 # We plot the Cryptocurrencies number evolution
 fig, ax = plt.subplots(figsize=(30,10))
@@ -63,7 +63,7 @@ ax.plot(df_files.index, df_files['num_crypto'])
 
 ax.set(xlabel='Date', ylabel='Amount',title='Cryptocurrencies number evolution (2013-2019)')
 ax.grid()
-ax.vlines(CHSB introduction, ymin = 0, ymax = max(df_files['num_crypto']),color="red",label="CHSB introduction")
+ax.vlines(CHSB_introduction, ymin = 0, ymax = max(df_files['num_crypto']),color="red",label="CHSB introduction")
 ax.legend(["Cryptocurrencies number evolution", "CHSB introduction"])
 
 # We save the fig
@@ -80,9 +80,9 @@ subperiod = snapshots_data[snapshots_data.index >= "2017-01-01"]
 fig, ax = plt.subplots(figsize=(30,10))
 ax.plot(subperiod.index, subperiod['total_cap'])
 
-ax.set(xlabel='Date', ylabel='Market cap', title='Cryptocurrencies market capitalisation (2013-2019)')
+ax.set(xlabel='Date', ylabel='Market cap USD$', title='Cryptocurrencies market capitalisation (2013-2019)')
 ax.grid()
-ax.vlines(CHSB introduction, ymin = 0, ymax = max(subperiod['total_cap']),color="red",label="CHSB introduction")
+ax.vlines(CHSB_introduction, ymin = 0, ymax = max(subperiod['total_cap']),color="red",label="CHSB introduction")
 
 ax.legend(["Market Cap Evolution", "CHSB introduction"])
 
